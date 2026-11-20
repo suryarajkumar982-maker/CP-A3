@@ -1,0 +1,9856 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/AF [ 81 0 R ]
+/Names <<
+/EmbeddedFiles <<
+/Names [ (Content Credentials) 81 0 R ]
+>>
+>>
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 20
+/Kids [ 3 0 R 9 0 R 12 0 R 15 0 R 21 0 R 24 0 R 27 0 R 33 0 R 36 0 R 39 0 R 45 0 R 48 0 R 54 0 R 57 0 R 60 0 R 66 0 R 69 0 R 72 0 R 75 0 R 78 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F1-0 6 0 R
+/F2 7 0 R
+/F3 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 8403
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.086275 0.196078 0.309804 rg
+n
+0 816.378 595.2756 25.51181 re
+f*
+1 1 1 rg
+BT
+/F2 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 45.35433 824.5984 Tm
+(CSA02  \174  C PROGRAMMING  \174  ASSIGNMENT 4) Tj
+T*
+ET
+0.839216 0.870588 0.898039 RG
+0.5 w
+n
+45.35433 39.68504 m
+549.9213 39.68504 l
+S
+0.356863 0.419608 0.470588 rg
+BT
+/F1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 45.35433 26.92913 Tm
+(R\056 Surya  \174  1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 1) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 784.8661 cm
+Q
+q
+1 0 0 1 51.35433 761.8661 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 19 Tf
+23 TL
+(TASK 1 \174 Data Design Review) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 745.8661 cm
+q
+0.356863 0.419608 0.470588 rg
+BT
+1 0 0 1 0 3.8 Tm
+/F1 9.2 Tf
+13 TL
+(CO4 \055 Structures\054 unions and storage classes \174 6 marks) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 697.8661 cm
+q
+0.031373 0.494118 0.545098 rg
+n
+0 40 505 -20 re
+f*
+1 1 1 rg
+n
+0 20 505 -20 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 25 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Student) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 131 25 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Register Number) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 226 25 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(GitHub Repository) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(R\056 Surya) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 131 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(1924260114) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 226 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+() Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.870588 0.898039 RG
+0.45 w
+n
+0 40 m
+505 40 l
+S
+n
+0 0 m
+505 0 l
+S
+n
+0 0 m
+0 40 l
+S
+n
+505 0 m
+505 40 l
+S
+n
+0 20 m
+505 20 l
+S
+n
+125 0 m
+125 40 l
+S
+n
+220 0 m
+220 40 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 691.8661 cm
+Q
+q
+1 0 0 1 51.35433 663.8661 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Task 1\0561 \055 Diagnose the original design) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 633.6661 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 15.5 Tm
+/F1 8.7 Tf
+12.1 TL
+(The original program stores one patient across several arrays at the same index\056 This is a structure\055of\055arrays design\054 but the) Tj
+T*
+(implementation has important safety and maintenance problems\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 378.6661 cm
+q
+0.086275 0.196078 0.309804 rg
+n
+0 250 505 -20 re
+f*
+1 1 1 rg
+n
+0 230 505 -30 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 200 505 -30 re
+f*
+1 1 1 rg
+n
+0 170 505 -30 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 140 505 -30 re
+f*
+1 1 1 rg
+n
+0 110 505 -30 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 80 505 -30 re
+f*
+1 1 1 rg
+n
+0 50 505 -30 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 20 505 -20 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 235 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Deficiency) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 136 235 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(What could go wrong in the health centre\077) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 215 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Parallel arrays) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 136 205 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+-0.054389 Tw
+(A missed insertion\054 deletion or swap in one array can pair a patient name with another patient\047s age\054 phone) Tj
+T*
+0 Tw
+(number or medical record\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 185 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(char phone\13310\135) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 136 175 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(A 10\055digit phone number needs at least 11 bytes when stored as a C string\054 because the terminating null) Tj
+T*
+(character also needs space\056 strcpy can write beyond the array\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 155 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(One float for blood pressure) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 136 145 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Blood pressure has systolic and diastolic readings\056 One float cannot represent both values as separate\054) Tj
+T*
+(validated measurements\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 115 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Date stored as eight text) Tj
+T*
+(characters) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 136 115 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(The format is ambiguous\054 difficult to validate and inconvenient for date comparisons\056 Invalid dates such as) Tj
+T*
+(32132026 can be stored\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 95 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(No capacity check) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 136 85 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(When count reaches 100\054 writing the next record accesses memory outside the arrays and can corrupt the) Tj
+T*
+(program\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 65 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Global count) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 136 55 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(A global variable can be modified by unrelated functions\054 makes testing harder and hides which function) Tj
+T*
+(owns the registry state\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 35 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Sorting is error\055prone) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 136 25 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Sorting by age requires identical swaps in every parallel array\056 Forgetting one swap silently corrupts) Tj
+T*
+(patient\055to\055data relationships\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Unbounded strcpy) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 136 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(A long name or phone input can overflow its destination array unless the source length is checked\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.870588 0.898039 RG
+0.45 w
+n
+0 250 m
+505 250 l
+S
+n
+0 0 m
+505 0 l
+S
+n
+0 0 m
+0 250 l
+S
+n
+505 0 m
+505 250 l
+S
+n
+0 230 m
+505 230 l
+S
+n
+0 200 m
+505 200 l
+S
+n
+0 170 m
+505 170 l
+S
+n
+0 140 m
+505 140 l
+S
+n
+0 110 m
+505 110 l
+S
+n
+0 80 m
+505 80 l
+S
+n
+0 50 m
+505 50 l
+S
+n
+0 20 m
+505 20 l
+S
+n
+130 0 m
+130 250 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 350.6661 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Task 1\0562 \055 Repaired structure design) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 320.4661 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 15.5 Tm
+/F1 8.7 Tf
+12.1 TL
+(The revised design stores all fields for one patient in one Patient object\056 Date and blood pressure are nested structures\056) Tj
+T*
+(PatientRegistry owns both the fixed\055capacity array and its count\054 so no global count is needed\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 66.58614 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 242.08 Tm
+/F3 6.8 Tf
+8.296 TL
+(\043include \074stdio\056h\076) Tj
+T*
+(\043include \074stddef\056h\076) Tj
+T*
+(\043include \074string\056h\076) Tj
+T*
+T*
+(\043define MAX\137PATIENTS 100) Tj
+T*
+T*
+(typedef struct \173 int day\054 month\054 year\073 \175 Date\073) Tj
+T*
+(typedef struct \173 int systolic\054 diastolic\073 \175 BloodPressure\073) Tj
+T*
+T*
+(typedef struct \173) Tj
+T*
+(    char name\13340\135\073) Tj
+T*
+(    char phone\13316\135\073       \057\052 room for 15 characters plus \047\1340\047 \052\057) Tj
+T*
+(    int age\073) Tj
+T*
+(    BloodPressure bp\073) Tj
+T*
+(    Date visit\137date\073) Tj
+T*
+(\175 Patient\073) Tj
+T*
+T*
+(typedef struct \173) Tj
+T*
+(    Patient records\133MAX\137PATIENTS\135\073) Tj
+T*
+(    size\137t count\073) Tj
+T*
+(\175 PatientRegistry\073) Tj
+T*
+T*
+(static int valid\137date\050Date d\051) Tj
+T*
+(\173) Tj
+T*
+(    static const int days\137in\137month\133\135 \075) Tj
+T*
+(        \1730\05431\05428\05431\05430\05431\05430\05431\05431\05430\05431\05430\05431\175\073) Tj
+T*
+(    int limit\073) Tj
+T*
+(    if \050d\056year \074 1 \174\174 d\056month \074 1 \174\174 d\056month \076 12 \174\174 d\056day \074 1\051) Tj
+T*
+(        return 0\073) Tj
+T*
+(    limit \075 days\137in\137month\133d\056month\135\073) Tj
+T*
+ET
+Q
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+518.2756 19 58 15 re
+f*
+0.356863 0.419608 0.470588 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 1) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+5 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F1-0 11 0 R
+/F2 7 0 R
+/F3 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 5151
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.086275 0.196078 0.309804 rg
+n
+0 816.378 595.2756 25.51181 re
+f*
+1 1 1 rg
+BT
+/F2 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 45.35433 824.5984 Tm
+(CSA02  \174  C PROGRAMMING  \174  ASSIGNMENT 4) Tj
+T*
+ET
+0.839216 0.870588 0.898039 RG
+0.5 w
+n
+45.35433 39.68504 m
+549.9213 39.68504 l
+S
+0.356863 0.419608 0.470588 rg
+BT
+/F1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 45.35433 26.92913 Tm
+(R\056 Surya  \174  1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 2) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 444.9381 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 341.632 Tm
+/F3 6.8 Tf
+8.296 TL
+(    if \050d\056month \075\075 2 \046\046) Tj
+T*
+(        \050d\056year \045 400 \075\075 0 \174\174 \050d\056year \045 4 \075\075 0 \046\046 d\056year \045 100 \041\075 0\051\051\051) Tj
+T*
+(        limit \075 29\073) Tj
+T*
+(    return d\056day \074\075 limit\073) Tj
+T*
+(\175) Tj
+T*
+T*
+(\057\052 Returns 1 when stored\073 returns 0 for invalid input or a full registry\056 \052\057) Tj
+T*
+(int addPatient\050PatientRegistry \052registry\054 const Patient \052patient\051) Tj
+T*
+(\173) Tj
+T*
+(    if \050registry \075\075 NULL \174\174 patient \075\075 NULL\051) Tj
+T*
+(        return 0\073) Tj
+T*
+(    if \050registry\055\076count \076\075 MAX\137PATIENTS\051) Tj
+T*
+(        return 0\073) Tj
+T*
+(    if \050memchr\050patient\055\076name\054 \047\1340\047\054 sizeof patient\055\076name\051 \075\075 NULL \174\174) Tj
+T*
+(        memchr\050patient\055\076phone\054 \047\1340\047\054 sizeof patient\055\076phone\051 \075\075 NULL\051) Tj
+T*
+(        return 0\073) Tj
+T*
+(    if \050patient\055\076name\1330\135 \075\075 \047\1340\047 \174\174 patient\055\076phone\1330\135 \075\075 \047\1340\047 \174\174) Tj
+T*
+(        patient\055\076age \074 0 \174\174 patient\055\076bp\056systolic \074\075 0 \174\174) Tj
+T*
+(        patient\055\076bp\056diastolic \074\075 0 \174\174 \041valid\137date\050patient\055\076visit\137date\051\051) Tj
+T*
+(        return 0\073) Tj
+T*
+T*
+(    registry\055\076records\133registry\055\076count\135 \075 \052patient\073) Tj
+T*
+(    registry\055\076count\053\053\073) Tj
+T*
+(    return 1\073) Tj
+T*
+(\175) Tj
+T*
+T*
+(int main\050void\051) Tj
+T*
+(\173) Tj
+T*
+(    PatientRegistry clinic \075 \1730\175\073) Tj
+T*
+(    Patient sample \075 \173\042Anita Rao\042\054 \0429876543210\042\054 34\054 \173120\05480\175\054) Tj
+T*
+(                      \17319\05411\0542026\175\175\073) Tj
+T*
+T*
+(    if \050\041addPatient\050\046clinic\054 \046sample\051\051 \173) Tj
+T*
+(        fprintf\050stderr\054 \042Patient could not be added\056\134n\042\051\073) Tj
+T*
+(        return 1\073) Tj
+T*
+(    \175) Tj
+T*
+(    printf\050\042Added\072 \045s\054 age \045d\054 BP \045d\057\045d\054 patients \045zu\134n\042\054) Tj
+T*
+(           clinic\056records\1330\135\056name\054 clinic\056records\1330\135\056age\054) Tj
+T*
+(           clinic\056records\1330\135\056bp\056systolic\054) Tj
+T*
+(           clinic\056records\1330\135\056bp\056diastolic\054 clinic\056count\051\073) Tj
+T*
+(    return 0\073) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 425.8381 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 3.4 Tm
+/F1 8.7 Tf
+12.1 TL
+(GCC compile\072 gcc \055std\075c11 \055Wall \055Wextra task01\056c \055o task01) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 407.7381 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 3.4 Tm
+/F1 8.7 Tf
+12.1 TL
+(Run\072 \056\057task01) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 389.6381 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 3.4 Tm
+/F1 8.7 Tf
+12.1 TL
+(Expected text output\072 Added\072 Anita Rao\054 age 34\054 BP 120\05780\054 patients 1) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.1378 337.6381 cm
+q
+0.917647 0.952941 0.960784 rg
+n
+0 47 505 -47 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 8 30 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 2.8 Tm
+/F2 8.2 Tf
+11 TL
+(Screenshot placeholders) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 6 cm
+q
+BT
+1 0 0 1 0 12.4 Tm
+10 TL
+/F1 7.6 Tf
+0.356863 0.419608 0.470588 rg
+(\133INSERT SCREENSHOT\072 Task01 Compilation\135) Tj
+T*
+(\133INSERT SCREENSHOT\072 Task01 Output\135) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.031373 0.494118 0.545098 RG
+0.6 w
+n
+0 47 m
+505 47 l
+S
+n
+0 0 m
+505 0 l
+S
+n
+0 0 m
+0 47 l
+S
+n
+505 0 m
+505 47 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 309.6381 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Task 1\0563 \055 Design defence \050under 100 words\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 255.2381 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 39.7 Tm
+/F1 8.7 Tf
+12.1 TL
+(A Patient structure keeps each person\047s details together\054 so sorting or copying a patient moves one complete record instead of) Tj
+T*
+(coordinating several arrays\056 Functions can receive a Patient pointer to access or update one record without copying every field\056) Tj
+T*
+(Nested Date and BloodPressure types make the meaning of each value clear and allow those types to be reused\056 New fields) Tj
+T*
+(can be added in one structure definition\054 reducing the risk of mismatched data\056) Tj
+T*
+ET
+Q
+Q
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+518.2756 19 58 15 re
+f*
+0.356863 0.419608 0.470588 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 2) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F1-0 14 0 R
+/F2 7 0 R
+/F3 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 5527
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.086275 0.196078 0.309804 rg
+n
+0 816.378 595.2756 25.51181 re
+f*
+1 1 1 rg
+BT
+/F2 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 45.35433 824.5984 Tm
+(CSA02  \174  C PROGRAMMING  \174  ASSIGNMENT 4) Tj
+T*
+ET
+0.839216 0.870588 0.898039 RG
+0.5 w
+n
+45.35433 39.68504 m
+549.9213 39.68504 l
+S
+0.356863 0.419608 0.470588 rg
+BT
+/F1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 45.35433 26.92913 Tm
+(R\056 Surya  \174  1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 3) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 776.3701 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Alternative concept \055 Array of structures versus parallel arrays) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 551.3701 cm
+q
+0.086275 0.196078 0.309804 rg
+n
+0 220 505 -20 re
+f*
+1 1 1 rg
+n
+0 200 505 -30 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 170 505 -40 re
+f*
+1 1 1 rg
+n
+0 130 505 -50 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 80 505 -40 re
+f*
+1 1 1 rg
+n
+0 40 505 -40 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 205 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Aspect) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91 205 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Array of structures \050AoS\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 301 205 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Structure of arrays \050SoA\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 185 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Data layout) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91 175 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Each Patient contains name\054 phone\054 age\054 blood pressure) Tj
+T*
+(and date together\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 301 175 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Each field is stored in its own array\073 the index connects) Tj
+T*
+(the fields\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 155 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Sorting by age) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91 135 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 22.3 Tm
+/F1 7.7 Tf
+10 TL
+(Compare ages\054 then swap complete Patient objects\056) Tj
+T*
+(Selection sort is O\050n\1362\051\073 a swap uses three structure) Tj
+T*
+(assignments\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 301 135 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 22.3 Tm
+/F1 7.7 Tf
+10 TL
+(Compare age\133i\135 and age\133min\135\054 then swap every) Tj
+T*
+-0.071913 Tw
+(corresponding field in every array\056 Forgetting one field can) Tj
+T*
+0 Tw
+(corrupt a record\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 115 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Copy traffic per swap) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91 85 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 32.3 Tm
+/F1 7.7 Tf
+10 TL
+(For the supplied revised layout\054 sizeof\050Patient\051 is 80) Tj
+T*
+(bytes\056 A temporary\055variable swap has three logical) Tj
+T*
+(structure assignments\072 about 3 x 80 \075 240 bytes of) Tj
+T*
+(structure\055copy traffic\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 301 95 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 22.3 Tm
+/F1 7.7 Tf
+10 TL
+(The same logical fields must be moved to preserve) Tj
+T*
+(records\073 arrays avoid per\055record inter\055field padding\054 but) Tj
+T*
+(require separate swaps for all columns\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 65 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Space) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91 45 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 22.3 Tm
+/F1 7.7 Tf
+10 TL
+(100 records use 100 x 80 \075 8\054000 bytes\073 the size\137t count) Tj
+T*
+(adds 8 bytes on a typical 64\055bit ABI\056 The registry is about) Tj
+T*
+(8\054008 bytes\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 301 45 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 22.3 Tm
+/F1 7.7 Tf
+10 TL
+(The five arrays use 100 x \05040 \053 16 \053 4 \053 8 \053 12\051 \075 8\054000) Tj
+T*
+(bytes for the same declared field capacities\054 plus count\056) Tj
+T*
+(Each array has its own element alignment\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(When SoA can be) Tj
+T*
+(preferred) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 91 15 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Best when most operations read or update a complete) Tj
+T*
+(patient record\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 301 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 22.3 Tm
+/F1 7.7 Tf
+10 TL
+(Can be useful for column\055wise processing\054 vectorized) Tj
+T*
+-0.053 Tw
+(operations\054 or when a task scans only one field such as all) Tj
+T*
+0 Tw
+(ages\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.870588 0.898039 RG
+0.45 w
+n
+0 220 m
+505 220 l
+S
+n
+0 0 m
+505 0 l
+S
+n
+0 0 m
+0 220 l
+S
+n
+505 0 m
+505 220 l
+S
+n
+0 200 m
+505 200 l
+S
+n
+0 170 m
+505 170 l
+S
+n
+0 130 m
+505 130 l
+S
+n
+0 80 m
+505 80 l
+S
+n
+0 40 m
+505 40 l
+S
+n
+85 0 m
+85 220 l
+S
+n
+295 0 m
+295 220 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 509.0701 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 27.6 Tm
+/F1 8.7 Tf
+12.1 TL
+(The 80\055byte Patient size is based on the exact field sizes shown in the code and a typical GCC ABI with 4\055byte alignment for int\056) Tj
+T*
+-0.044648 Tw
+(Confirm it on the target machine with printf\050\042\045zu\042\054 sizeof\050Patient\051\051\056 Selection sort is O\050n\1362\051 comparisons in either representation\056) Tj
+T*
+0 Tw
+(A more scalable comparison sort can reduce the time to O\050n log n\051\056) Tj
+T*
+ET
+Q
+Q
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+518.2756 19 58 15 re
+f*
+0.356863 0.419608 0.470588 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 3) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 17 0 R
+/F1-0 18 0 R
+/F2 19 0 R
+/F3 20 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 6871
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.086275 0.196078 0.309804 rg
+n
+0 816.378 595.2756 25.51181 re
+f*
+1 1 1 rg
+BT
+/F2 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 45.35433 824.5984 Tm
+(CSA02  \174  C PROGRAMMING  \174  ASSIGNMENT 4) Tj
+T*
+ET
+0.839216 0.870588 0.898039 RG
+0.5 w
+n
+45.35433 39.68504 m
+549.9213 39.68504 l
+S
+0.356863 0.419608 0.470588 rg
+BT
+/F1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 45.35433 26.92913 Tm
+(R\056 Surya  \174  1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 1) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 784.8661 cm
+Q
+q
+1 0 0 1 51.35433 761.8661 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 19 Tf
+23 TL
+(TASK 2 \174 From Requirement to Nested Structures) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 745.8661 cm
+q
+0.356863 0.419608 0.470588 rg
+BT
+1 0 0 1 0 3.8 Tm
+/F1 9.2 Tf
+13 TL
+(CO4 \055 Structures\054 unions and storage classes \174 8 marks) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 697.8661 cm
+q
+0.031373 0.494118 0.545098 rg
+n
+0 40 505 -20 re
+f*
+1 1 1 rg
+n
+0 20 505 -20 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 25 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Student) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 131 25 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Register Number) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 226 25 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(GitHub Repository) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(R\056 Surya) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 131 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(1924260114) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 226 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+() Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.870588 0.898039 RG
+0.45 w
+n
+0 40 m
+505 40 l
+S
+n
+0 0 m
+505 0 l
+S
+n
+0 0 m
+0 40 l
+S
+n
+505 0 m
+505 40 l
+S
+n
+0 20 m
+505 20 l
+S
+n
+125 0 m
+125 40 l
+S
+n
+220 0 m
+220 40 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 691.8661 cm
+Q
+q
+1 0 0 1 51.35433 663.8661 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Task 2\0561 \055 Identify the entities) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 538.8661 cm
+q
+0.086275 0.196078 0.309804 rg
+n
+0 120 505 -20 re
+f*
+1 1 1 rg
+n
+0 100 505 -20 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 80 505 -20 re
+f*
+1 1 1 rg
+n
+0 60 505 -20 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 40 505 -20 re
+f*
+1 1 1 rg
+n
+0 20 505 -20 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 105 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Entity \057 structure) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 121 105 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Fields and relationship) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 85 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Parcel) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 121 85 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Parcel ID\054 weight\054 booking date\054 sender\054 receiver\054 service type and charge\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 65 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Person) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 121 65 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Name and an Address\056 A parcel contains one sender and one receiver\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Address) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 121 45 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(City and PIN code\056 Reused by both sender and receiver\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 25 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Date) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 121 25 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Day\054 month and year\056 Nested in Parcel as the booking date\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Service) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 121 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Enumeration with NORMAL and EXPRESS values\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.870588 0.898039 RG
+0.45 w
+n
+0 120 m
+505 120 l
+S
+n
+0 0 m
+505 0 l
+S
+n
+0 0 m
+0 120 l
+S
+n
+505 0 m
+505 120 l
+S
+n
+0 100 m
+505 100 l
+S
+n
+0 80 m
+505 80 l
+S
+n
+0 60 m
+505 60 l
+S
+n
+0 40 m
+505 40 l
+S
+n
+0 20 m
+505 20 l
+S
+n
+115 0 m
+115 120 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 510.8661 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Task 2\0562 \055 Full data model) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 358.6121 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 140.154 Tm
+/F3 7.1 Tf
+8.662 TL
+(\043include \074stddef\056h\076) Tj
+T*
+(\043define MAX\137PARCELS 200) Tj
+T*
+(typedef struct \173 int day\054 month\054 year\073 \175 Date\073) Tj
+T*
+(typedef struct \173 char city\13320\135\073 int pincode\073 \175 Address\073) Tj
+T*
+(typedef struct \173 char name\13340\135\073 Address address\073 \175 Person\073) Tj
+T*
+(typedef enum \173 NORMAL\054 EXPRESS \175 ServiceType\073) Tj
+T*
+(typedef struct \173) Tj
+T*
+(    int id\073) Tj
+T*
+(    float weight\073) Tj
+T*
+(    Date booked\073) Tj
+T*
+(    Person sender\073) Tj
+T*
+(    Person receiver\073) Tj
+T*
+(    ServiceType service\073) Tj
+T*
+(    float charge\073) Tj
+T*
+(\175 Parcel\073) Tj
+T*
+(Parcel bookings\133MAX\137PARCELS\135\073) Tj
+T*
+(size\137t booking\137count \075 0\073) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 315.3121 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 27.6 Tm
+/F1 8.7 Tf
+12.1 TL
+(The supplied Complete the Code skeleton is deliberately smaller\072 its struct parcel contains only id\054 weight\054 destination address) Tj
+T*
+(and booking date\056 The following complete program fills those exact two TODO sections without changing the required output) Tj
+T*
+(fields\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 287.3121 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Task 2\0563 \055 Pseudocode for the requested operations) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 266.3121 cm
+q
+0.031373 0.494118 0.545098 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(a\051 Selection sort by ascending weight) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 131.5521 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 124.56 Tm
+/F3 7.2 Tf
+8.784 TL
+(ALGORITHM SortParcelsByWeight\050P\054 n\051) Tj
+T*
+(    FOR i \074\055 0 TO n \055 2) Tj
+T*
+(        minIndex \074\055 i) Tj
+T*
+(        FOR j \074\055 i \053 1 TO n \055 1) Tj
+T*
+(            IF P\133j\135\056weight \074 P\133minIndex\135\056weight THEN) Tj
+T*
+(                minIndex \074\055 j) Tj
+T*
+(            END IF) Tj
+T*
+(        END FOR) Tj
+T*
+(        IF minIndex \041\075 i THEN) Tj
+T*
+(            temp \074\055 P\133i\135) Tj
+T*
+(            P\133i\135 \074\055 P\133minIndex\135) Tj
+T*
+(            P\133minIndex\135 \074\055 temp) Tj
+T*
+(        END IF) Tj
+T*
+(    END FOR) Tj
+T*
+(END ALGORITHM) Tj
+T*
+ET
+Q
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+518.2756 19 58 15 re
+f*
+0.356863 0.419608 0.470588 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 4) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+20 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+21 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 17 0 R
+/F1-0 23 0 R
+/F2 19 0 R
+/F3 20 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 5216
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.086275 0.196078 0.309804 rg
+n
+0 816.378 595.2756 25.51181 re
+f*
+1 1 1 rg
+BT
+/F2 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 45.35433 824.5984 Tm
+(CSA02  \174  C PROGRAMMING  \174  ASSIGNMENT 4) Tj
+T*
+ET
+0.839216 0.870588 0.898039 RG
+0.5 w
+n
+45.35433 39.68504 m
+549.9213 39.68504 l
+S
+0.356863 0.419608 0.470588 rg
+BT
+/F1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 45.35433 26.92913 Tm
+(R\056 Surya  \174  1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 2) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 780.3701 cm
+q
+0.031373 0.494118 0.545098 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(b\051 List parcels for a receiver city) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 715.8821 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 54.288 Tm
+/F3 7.2 Tf
+8.784 TL
+(ALGORITHM ListByReceiverCity\050P\054 n\054 wantedCity\051) Tj
+T*
+(    FOR i \074\055 0 TO n \055 1) Tj
+T*
+(        IF P\133i\135\056receiver\056address\056city \075 wantedCity THEN) Tj
+T*
+(            DISPLAY P\133i\135) Tj
+T*
+(        END IF) Tj
+T*
+(    END FOR) Tj
+T*
+(END ALGORITHM) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 687.8821 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Task 2\0564 \055 Access paths) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 669.7821 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 3.4 Tm
+/F1 8.7 Tf
+12.1 TL
+(For the exact supplied skeleton\054 where to is a struct address member\072) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 628.1821 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 29.1 Tm
+/F3 7.5 Tf
+9.15 TL
+(bookings\1332\135\056to\056pincode) Tj
+T*
+T*
+(struct parcel \052p \075 \046bookings\1332\135\073) Tj
+T*
+(p\055\076to\056pincode) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 596.9821 cm
+q
+BT
+1 0 0 1 0 15.5 Tm
+12.1 TL
+/F1 8.7 Tf
+0.113725 0.160784 0.207843 rg
+(For the expanded full model above\054 the corresponding access path is bookings\1332\135\056receiver\056address\056pincode or) Tj
+T*
+(p\055) Tj
+(\076) Tj
+(receiver\056address\056pincode\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 568.9821 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Complete the Code \055 TODO 1 and TODO 2) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 132.5901 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 424.592 Tm
+/F3 6.8 Tf
+8.296 TL
+(\043include \074stdio\056h\076) Tj
+T*
+T*
+(struct date \173 int day\054 month\054 year\073 \175\073) Tj
+T*
+(struct address \173 char city\13320\135\073 int pincode\073 \175\073) Tj
+T*
+(struct parcel \173) Tj
+T*
+(    int id\073) Tj
+T*
+(    float weight\073) Tj
+T*
+(    struct address to\073) Tj
+T*
+(    struct date booked\073) Tj
+T*
+(\175\073) Tj
+T*
+T*
+(void print\137parcel\050const struct parcel \052p\051) Tj
+T*
+(\173) Tj
+T*
+(    if \050p \075\075 NULL\051 return\073) Tj
+T*
+(    printf\050\042\045d \045\0561f kg \045s\055\045d \04502d\057\04502d\057\04504d\134n\042\054) Tj
+T*
+(           p\055\076id\054 p\055\076weight\054 p\055\076to\056city\054 p\055\076to\056pincode\054) Tj
+T*
+(           p\055\076booked\056day\054 p\055\076booked\056month\054 p\055\076booked\056year\051\073) Tj
+T*
+(\175) Tj
+T*
+T*
+(\057\052 Selection sort\072 ascending parcel weight\056 \052\057) Tj
+T*
+(void sort\137by\137weight\050struct parcel p\133\135\054 int n\051) Tj
+T*
+(\173) Tj
+T*
+(    int i\073) Tj
+T*
+(    for \050i \075 0\073 i \074 n \055 1\073 \053\053i\051 \173) Tj
+T*
+(        int min\137index \075 i\073) Tj
+T*
+(        int j\073) Tj
+T*
+(        for \050j \075 i \053 1\073 j \074 n\073 \053\053j\051 \173) Tj
+T*
+(            if \050p\133j\135\056weight \074 p\133min\137index\135\056weight\051) Tj
+T*
+(                min\137index \075 j\073) Tj
+T*
+(        \175) Tj
+T*
+(        if \050min\137index \041\075 i\051 \173) Tj
+T*
+(            struct parcel temp \075 p\133i\135\073) Tj
+T*
+(            p\133i\135 \075 p\133min\137index\135\073) Tj
+T*
+(            p\133min\137index\135 \075 temp\073) Tj
+T*
+(        \175) Tj
+T*
+(    \175) Tj
+T*
+(\175) Tj
+T*
+T*
+(int main\050void\051) Tj
+T*
+(\173) Tj
+T*
+(    struct parcel list\1333\135 \075 \173) Tj
+T*
+(        \173501\054 4\0565f\054 \173\042Madurai\042\054 625001\175\054 \17312\054 10\054 2026\175\175\054) Tj
+T*
+(        \173502\054 1\0562f\054 \173\042Chennai\042\054 600077\175\054 \17312\054 10\054 2026\175\175\054) Tj
+T*
+(        \173503\054 2\0568f\054 \173\042Coimbatore\042\054 641001\175\054 \17313\054 10\054 2026\175\175) Tj
+T*
+(    \175\073) Tj
+T*
+(    int i\073) Tj
+T*
+(    sort\137by\137weight\050list\054 3\051\073) Tj
+T*
+(    for \050i \075 0\073 i \074 3\073 \053\053i\051) Tj
+T*
+(        print\137parcel\050\046list\133i\135\051\073) Tj
+T*
+(    printf\050\042sizeof\050struct parcel\051 \075 \045zu bytes\134n\042\054 sizeof\050struct parcel\051\051\073) Tj
+T*
+(    return 0\073) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 113.4901 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 3.4 Tm
+/F1 8.7 Tf
+12.1 TL
+(GCC compile\072 gcc \055std\075c11 \055Wall \055Wextra task02\056c \055o task02) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 95.39008 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 3.4 Tm
+/F1 8.7 Tf
+12.1 TL
+(Run\072 \056\057task02) Tj
+T*
+ET
+Q
+Q
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+518.2756 19 58 15 re
+f*
+0.356863 0.419608 0.470588 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 5) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+23 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+24 0 obj
+<<
+/Contents 25 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 17 0 R
+/F1-0 26 0 R
+/F2 19 0 R
+/F3 20 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+25 0 obj
+<<
+/Length 3133
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.086275 0.196078 0.309804 rg
+n
+0 816.378 595.2756 25.51181 re
+f*
+1 1 1 rg
+BT
+/F2 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 45.35433 824.5984 Tm
+(CSA02  \174  C PROGRAMMING  \174  ASSIGNMENT 4) Tj
+T*
+ET
+0.839216 0.870588 0.898039 RG
+0.5 w
+n
+45.35433 39.68504 m
+549.9213 39.68504 l
+S
+0.356863 0.419608 0.470588 rg
+BT
+/F1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 45.35433 26.92913 Tm
+(R\056 Surya  \174  1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 3) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 780.3701 cm
+q
+0.031373 0.494118 0.545098 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(Expected output) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 742.2341 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 27.936 Tm
+/F3 7.2 Tf
+8.784 TL
+(502 1\0562 kg Chennai\055600077 12\05710\0572026) Tj
+T*
+(503 2\0568 kg Coimbatore\055641001 13\05710\0572026) Tj
+T*
+(501 4\0565 kg Madurai\055625001 12\05710\0572026) Tj
+T*
+(sizeof\050struct parcel\051 \075 44 bytes) Tj
+T*
+ET
+Q
+q
+1 0 0 1 45.1378 688.2341 cm
+q
+0.917647 0.952941 0.960784 rg
+n
+0 47 505 -47 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 8 30 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 2.8 Tm
+/F2 8.2 Tf
+11 TL
+(Screenshot placeholders) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 6 cm
+q
+BT
+1 0 0 1 0 12.4 Tm
+10 TL
+/F1 7.6 Tf
+0.356863 0.419608 0.470588 rg
+(\133INSERT SCREENSHOT\072 Task02 Compilation\135) Tj
+T*
+(\133INSERT SCREENSHOT\072 Task02 Output\135) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.031373 0.494118 0.545098 RG
+0.6 w
+n
+0 47 m
+505 47 l
+S
+n
+0 0 m
+505 0 l
+S
+n
+0 0 m
+0 47 l
+S
+n
+505 0 m
+505 47 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 660.2341 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Swap byte count and alternative flat design) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 617.9341 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 27.6 Tm
+/F1 8.7 Tf
+12.1 TL
+-0.090825 Tw
+(On the shown GCC layout\054 struct address is 24 bytes \05020\055byte city array plus 4\055byte int\051\054 struct date is 12 bytes\054 and struct parcel) Tj
+T*
+0 Tw
+(is 4 \053 4 \053 24 \053 12 \075 44 bytes\056 Each structure assignment logically copies 44 bytes\056 The temporary\055variable swap has three) Tj
+T*
+(assignments\054 so its logical copy traffic is 3 x 44 \075 132 bytes per swap\073 an optimizing compiler may implement this differently\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 563.5341 cm
+q
+BT
+1 0 0 1 0 39.7 Tm
+12.1 TL
+/F1 8.7 Tf
+0.113725 0.160784 0.207843 rg
+(A flat version could place city\13320\135\054 pincode\054 day\054 month and year directly in struct parcel\056 Its access path becomes p\133i\135\056city or) Tj
+T*
+-0.045724 Tw
+(p\055) Tj
+(\076) Tj
+(city instead of p\133i\135\056to\056city\056 The nested version reuses struct address for both sender and receiver and is easier to extend\056 Both) Tj
+T*
+0 Tw
+(layouts can occupy 44 bytes on this ABI because the flat fields have the same sizes and 4\055byte alignment\056 Verify with sizeof on) Tj
+T*
+(the target GCC system\056) Tj
+T*
+ET
+Q
+Q
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+518.2756 19 58 15 re
+f*
+0.356863 0.419608 0.470588 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 6) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+26 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+27 0 obj
+<<
+/Contents 28 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 29 0 R
+/F1-0 30 0 R
+/F2 31 0 R
+/F3 32 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 7704
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.086275 0.196078 0.309804 rg
+n
+0 816.378 595.2756 25.51181 re
+f*
+1 1 1 rg
+BT
+/F2 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 45.35433 824.5984 Tm
+(CSA02  \174  C PROGRAMMING  \174  ASSIGNMENT 4) Tj
+T*
+ET
+0.839216 0.870588 0.898039 RG
+0.5 w
+n
+45.35433 39.68504 m
+549.9213 39.68504 l
+S
+0.356863 0.419608 0.470588 rg
+BT
+/F1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 45.35433 26.92913 Tm
+(R\056 Surya  \174  1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 1) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 784.8661 cm
+Q
+q
+1 0 0 1 51.35433 761.8661 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 19 Tf
+23 TL
+(TASK 3 \174 Unions and Memory Layout) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 745.8661 cm
+q
+0.356863 0.419608 0.470588 rg
+BT
+1 0 0 1 0 3.8 Tm
+/F1 9.2 Tf
+13 TL
+(CO4 \055 Structures\054 unions and storage classes \174 9 marks) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 697.8661 cm
+q
+0.031373 0.494118 0.545098 rg
+n
+0 40 505 -20 re
+f*
+1 1 1 rg
+n
+0 20 505 -20 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 25 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Student) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 131 25 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Register Number) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 226 25 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(GitHub Repository) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(R\056 Surya) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 131 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(1924260114) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 226 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+() Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.870588 0.898039 RG
+0.45 w
+n
+0 40 m
+505 40 l
+S
+n
+0 0 m
+505 0 l
+S
+n
+0 0 m
+0 40 l
+S
+n
+505 0 m
+505 40 l
+S
+n
+0 20 m
+505 20 l
+S
+n
+125 0 m
+125 40 l
+S
+n
+220 0 m
+220 40 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 691.8661 cm
+Q
+q
+1 0 0 1 51.35433 663.8661 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Task 3\0561 \055 Structure or union\077) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 633.6661 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 15.5 Tm
+/F1 8.7 Tf
+12.1 TL
+(A regular structure stores separate memory for every member\056 A union overlays all members in the same memory region\054 so it) Tj
+T*
+(can hold one active value at a time\056 The packet therefore uses a tag plus a union\072 the tag says which union member is valid\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 496.9061 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 124.56 Tm
+/F3 7.2 Tf
+8.784 TL
+(struct all\137values \173) Tj
+T*
+(    float celsius\073) Tj
+T*
+(    int percent\073) Tj
+T*
+(    char status\1338\135\073) Tj
+T*
+(\175\073) Tj
+T*
+T*
+(enum kind \173 TEMPERATURE\054 HUMIDITY\054 STATUS \175\073) Tj
+T*
+(struct reading \173) Tj
+T*
+(    enum kind type\073) Tj
+T*
+(    union \173) Tj
+T*
+(        float celsius\073) Tj
+T*
+(        int percent\073) Tj
+T*
+(        char status\1338\135\073) Tj
+T*
+(    \175 value\073) Tj
+T*
+(\175\073) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 453.6061 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 27.6 Tm
+/F1 8.7 Tf
+12.1 TL
+(The all\055fields structure occupies 16 bytes on the assumed ABI\072 4\055byte float \053 4\055byte int \053 8\055byte array\056 The tagged union) Tj
+T*
+(occupies 12 bytes\056 For thousands of packets\054 the tagged union avoids reserving all three value fields for every packet\056 With) Tj
+T*
+(10\054000 packets\054 a 4\055byte saving per packet is about 40\054000 bytes\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 425.6061 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Task 3\0562 \055 Predict and verify size) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 260.6061 cm
+q
+0.086275 0.196078 0.309804 rg
+n
+0 160 505 -20 re
+f*
+1 1 1 rg
+n
+0 140 505 -20 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 120 505 -20 re
+f*
+1 1 1 rg
+n
+0 100 505 -20 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 80 505 -30 re
+f*
+1 1 1 rg
+n
+0 50 505 -20 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 30 505 -30 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 145 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Member \057 object) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 121 145 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Typical size) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 196 145 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Reason) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 125 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(float celsius) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 121 125 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(4 bytes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 196 125 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Common 64\055bit GCC target uses a 4\055byte float\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 105 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(int percent) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 121 105 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(4 bytes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 196 105 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Common GCC target uses a 4\055byte int\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 85 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(char status\1338\135) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 121 85 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(8 bytes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 196 85 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Eight characters include room for seven text characters plus a null terminator\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 65 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(union value) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 121 65 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(8 bytes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 196 55 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(A union is large enough for its largest member and has alignment suitable for its) Tj
+T*
+(members\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 35 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(enum kind type) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 121 35 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(4 bytes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 196 35 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Typical GCC uses int\055sized enum representation\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(struct reading) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 121 15 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(12 bytes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 196 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+-0.102976 Tw
+(4\055byte tag followed by an 8\055byte union\073 both are aligned to 4 bytes\054 so no extra padding is) Tj
+T*
+0 Tw
+(needed here\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.870588 0.898039 RG
+0.45 w
+n
+0 160 m
+505 160 l
+S
+n
+0 0 m
+505 0 l
+S
+n
+0 0 m
+0 160 l
+S
+n
+505 0 m
+505 160 l
+S
+n
+0 140 m
+505 140 l
+S
+n
+0 120 m
+505 120 l
+S
+n
+0 100 m
+505 100 l
+S
+n
+0 80 m
+505 80 l
+S
+n
+0 50 m
+505 50 l
+S
+n
+0 30 m
+505 30 l
+S
+n
+115 0 m
+115 160 l
+S
+n
+190 0 m
+190 160 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 218.3061 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 27.6 Tm
+/F1 8.7 Tf
+12.1 TL
+(The structure is 12 bytes\054 not 4 \053 4 \053 4 \053 8\054 because the union does not add the sizes of all three members\056 Its storage is the) Tj
+T*
+(size of the largest member \0508 bytes\051\054 plus the 4\055byte tag\056 These sizes are ABI\055dependent\073 sizeof is the authoritative) Tj
+T*
+(measurement on the actual compiler\056) Tj
+T*
+ET
+Q
+Q
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+518.2756 19 58 15 re
+f*
+0.356863 0.419608 0.470588 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 7) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+29 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+30 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+31 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+32 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+33 0 obj
+<<
+/Contents 34 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 29 0 R
+/F1-0 35 0 R
+/F2 31 0 R
+/F3 32 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+34 0 obj
+<<
+/Length 5451
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.086275 0.196078 0.309804 rg
+n
+0 816.378 595.2756 25.51181 re
+f*
+1 1 1 rg
+BT
+/F2 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 45.35433 824.5984 Tm
+(CSA02  \174  C PROGRAMMING  \174  ASSIGNMENT 4) Tj
+T*
+ET
+0.839216 0.870588 0.898039 RG
+0.5 w
+n
+45.35433 39.68504 m
+549.9213 39.68504 l
+S
+0.356863 0.419608 0.470588 rg
+BT
+/F1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 45.35433 26.92913 Tm
+(R\056 Surya  \174  1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 2) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 776.3701 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Task 3\0563 \055 Complete the Code \050TODO 1\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 384.1421 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 380.328 Tm
+/F3 6.9 Tf
+8.418 TL
+(\043include \074stdio\056h\076) Tj
+T*
+T*
+(enum kind \173 TEMPERATURE\054 HUMIDITY\054 STATUS \175\073) Tj
+T*
+T*
+(struct reading \173) Tj
+T*
+(    enum kind type\073) Tj
+T*
+(    union \173) Tj
+T*
+(        float celsius\073) Tj
+T*
+(        int percent\073) Tj
+T*
+(        char status\1338\135\073) Tj
+T*
+(    \175 value\073) Tj
+T*
+(\175\073) Tj
+T*
+T*
+(void show\050const struct reading \052r\051) Tj
+T*
+(\173) Tj
+T*
+(    if \050r \075\075 NULL\051 return\073) Tj
+T*
+(    switch \050r\055\076type\051 \173) Tj
+T*
+(        case TEMPERATURE\072) Tj
+T*
+(            printf\050\042Temp \045\0561f C\134n\042\054 r\055\076value\056celsius\051\073) Tj
+T*
+(            break\073) Tj
+T*
+(        case HUMIDITY\072) Tj
+T*
+(            printf\050\042Humidity \045d \045\045\134n\042\054 r\055\076value\056percent\051\073) Tj
+T*
+(            break\073) Tj
+T*
+(        case STATUS\072) Tj
+T*
+(            printf\050\042Status \045s\134n\042\054 r\055\076value\056status\051\073) Tj
+T*
+(            break\073) Tj
+T*
+(        default\072) Tj
+T*
+(            printf\050\042Invalid packet type\134n\042\051\073) Tj
+T*
+(            break\073) Tj
+T*
+(    \175) Tj
+T*
+(\175) Tj
+T*
+T*
+(int main\050void\051) Tj
+T*
+(\173) Tj
+T*
+(    struct reading log\1333\135 \075 \173) Tj
+T*
+(        \173TEMPERATURE\054 \173\056celsius \075 31\0565f\175\175\054) Tj
+T*
+(        \173HUMIDITY\054 \173\056percent \075 68\175\175\054) Tj
+T*
+(        \173STATUS\054 \173\056status \075 \042OK\042\175\175) Tj
+T*
+(    \175\073) Tj
+T*
+(    int i\073) Tj
+T*
+(    printf\050\042sizeof union \075 \045zu\054 sizeof struct reading \075 \045zu\134n\042\054) Tj
+T*
+(           sizeof log\1330\135\056value\054 sizeof log\1330\135\051\073) Tj
+T*
+(    for \050i \075 0\073 i \074 3\073 \053\053i\051) Tj
+T*
+(        show\050\046log\133i\135\051\073) Tj
+T*
+(    return 0\073) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 365.0421 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 3.4 Tm
+/F1 8.7 Tf
+12.1 TL
+(GCC compile\072 gcc \055std\075c11 \055Wall \055Wextra task03\056c \055o task03) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 346.9421 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 3.4 Tm
+/F1 8.7 Tf
+12.1 TL
+(Run\072 \056\057task03) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 325.9421 cm
+q
+0.031373 0.494118 0.545098 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(Expected output on the assignment\047s typical 64\055bit GCC layout) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 287.3181 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 28.324 Tm
+/F3 7.3 Tf
+8.906 TL
+(sizeof union \075 8\054 sizeof struct reading \075 12) Tj
+T*
+(Temp 31\0565 C) Tj
+T*
+(Humidity 68 \045) Tj
+T*
+(Status OK) Tj
+T*
+ET
+Q
+q
+1 0 0 1 45.1378 233.3181 cm
+q
+0.917647 0.952941 0.960784 rg
+n
+0 47 505 -47 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 8 30 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 2.8 Tm
+/F2 8.2 Tf
+11 TL
+(Screenshot placeholders) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 6 cm
+q
+BT
+1 0 0 1 0 12.4 Tm
+10 TL
+/F1 7.6 Tf
+0.356863 0.419608 0.470588 rg
+(\133INSERT SCREENSHOT\072 Task03 Compilation\135) Tj
+T*
+(\133INSERT SCREENSHOT\072 Task03 Output\135) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.031373 0.494118 0.545098 RG
+0.6 w
+n
+0 47 m
+505 47 l
+S
+n
+0 0 m
+505 0 l
+S
+n
+0 0 m
+0 47 l
+S
+n
+505 0 m
+505 47 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 205.3181 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Task 3\0564 \055 Misuse experiment) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 174.3321 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 18.886 Tm
+/F3 7.1 Tf
+8.662 TL
+(struct reading probe \075 \173TEMPERATURE\054 \173\056celsius \075 31\0565f\175\175\073) Tj
+T*
+(printf\050\042Humidity member read after storing temperature\072 \045d\134n\042\054) Tj
+T*
+(       probe\056value\056percent\051\073) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 106.8321 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 51.8 Tm
+/F1 8.7 Tf
+12.1 TL
+(This reads a different union member from the one most recently written\056 It reinterprets the same bytes as an int instead of as a) Tj
+T*
+(float\056 In a verification run with GCC 14\0562 on x86\13764\054 the observed line was\072 Humidity member read after storing temperature\072) Tj
+T*
+(1107034112\056 This value is implementation\055dependent and is not a meaningful humidity measurement\073 a different compiler\054) Tj
+T*
+(architecture or representation may produce a different result\056 Never use a union member unless the tag identifies it as the active) Tj
+T*
+(member\056 Replace this reference output with the value and genuine screenshot from the student\047s own compiler\056) Tj
+T*
+ET
+Q
+Q
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+518.2756 19 58 15 re
+f*
+0.356863 0.419608 0.470588 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 8) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+35 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+36 0 obj
+<<
+/Contents 37 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 29 0 R
+/F1-0 38 0 R
+/F2 31 0 R
+/F3 32 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+37 0 obj
+<<
+/Length 3907
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.086275 0.196078 0.309804 rg
+n
+0 816.378 595.2756 25.51181 re
+f*
+1 1 1 rg
+BT
+/F2 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 45.35433 824.5984 Tm
+(CSA02  \174  C PROGRAMMING  \174  ASSIGNMENT 4) Tj
+T*
+ET
+0.839216 0.870588 0.898039 RG
+0.5 w
+n
+45.35433 39.68504 m
+549.9213 39.68504 l
+S
+0.356863 0.419608 0.470588 rg
+BT
+/F1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 45.35433 26.92913 Tm
+(R\056 Surya  \174  1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 3) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 776.3701 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Alternative concept \055 Separate arrays and void pointers) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 631.3701 cm
+q
+0.086275 0.196078 0.309804 rg
+n
+0 140 505 -20 re
+f*
+1 1 1 rg
+n
+0 120 505 -30 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 90 505 -50 re
+f*
+1 1 1 rg
+n
+0 40 505 -40 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 125 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Design) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 111 125 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Read time) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 256 125 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Space and trade\055off) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 105 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Tagged union array) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 111 95 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(O\0501\051 for a known packet index\073 inspect) Tj
+T*
+(tag\054 then read the selected member\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 256 95 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Fixed tag plus largest value storage per packet\056 Safe dispatch is) Tj
+T*
+(explicit\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Three separate arrays) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 111 45 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 32.3 Tm
+/F1 7.7 Tf
+10 TL
+-0.086333 Tw
+(O\0501\051 when the caller already knows the) Tj
+T*
+0 Tw
+(packet type and its type\055specific index\056) Tj
+T*
+(A mixed chronological stream needs) Tj
+T*
+(an extra type\057index map\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 256 65 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Only each type\055specific array stores its own value\073 indexing and) Tj
+T*
+(ordering become more complicated\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 25 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(malloc \053 void pointer) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 111 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 22.3 Tm
+/F1 7.7 Tf
+10 TL
+(O\0501\051 after the pointer and a type tag) Tj
+T*
+(are known\073 cast to the correct pointer) Tj
+T*
+(type\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 256 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 22.3 Tm
+/F1 7.7 Tf
+10 TL
+(Each packet needs allocation bookkeeping and a pointer\056) Tj
+T*
+(Fragmentation and allocation overhead can exceed the saved payload) Tj
+T*
+(space\073 ownership and freeing must be managed\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.870588 0.898039 RG
+0.45 w
+n
+0 140 m
+505 140 l
+S
+n
+0 0 m
+505 0 l
+S
+n
+0 0 m
+0 140 l
+S
+n
+505 0 m
+505 140 l
+S
+n
+0 120 m
+505 120 l
+S
+n
+0 90 m
+505 90 l
+S
+n
+0 40 m
+505 40 l
+S
+n
+105 0 m
+105 140 l
+S
+n
+250 0 m
+250 140 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 589.0701 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 27.6 Tm
+/F1 8.7 Tf
+12.1 TL
+(For a fixed packet stream containing exactly one value per packet\054 a tagged union is compact\054 contiguous and simple to) Tj
+T*
+(traverse\056 Separate arrays can be useful when processing one sensor type in batches\056 Dynamic void\055pointer storage is more) Tj
+T*
+(flexible but adds allocation\054 indirection and type\055safety risks\056) Tj
+T*
+ET
+Q
+Q
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+518.2756 19 58 15 re
+f*
+0.356863 0.419608 0.470588 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 9) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+38 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+39 0 obj
+<<
+/Contents 40 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 41 0 R
+/F1-0 42 0 R
+/F2 43 0 R
+/F3 44 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+40 0 obj
+<<
+/Length 6276
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.086275 0.196078 0.309804 rg
+n
+0 816.378 595.2756 25.51181 re
+f*
+1 1 1 rg
+BT
+/F2 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 45.35433 824.5984 Tm
+(CSA02  \174  C PROGRAMMING  \174  ASSIGNMENT 4) Tj
+T*
+ET
+0.839216 0.870588 0.898039 RG
+0.5 w
+n
+45.35433 39.68504 m
+549.9213 39.68504 l
+S
+0.356863 0.419608 0.470588 rg
+BT
+/F1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 45.35433 26.92913 Tm
+(R\056 Surya  \174  1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 1) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 784.8661 cm
+Q
+q
+1 0 0 1 51.35433 761.8661 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 19 Tf
+23 TL
+(TASK 4 \174 Structure Forensics) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 745.8661 cm
+q
+0.356863 0.419608 0.470588 rg
+BT
+1 0 0 1 0 3.8 Tm
+/F1 9.2 Tf
+13 TL
+(CO4 \055 Structures\054 unions and storage classes \174 7 marks) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 697.8661 cm
+q
+0.031373 0.494118 0.545098 rg
+n
+0 40 505 -20 re
+f*
+1 1 1 rg
+n
+0 20 505 -20 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 25 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Student) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 131 25 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Register Number) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 226 25 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(GitHub Repository) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(R\056 Surya) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 131 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(1924260114) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 226 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+() Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.870588 0.898039 RG
+0.45 w
+n
+0 40 m
+505 40 l
+S
+n
+0 0 m
+505 0 l
+S
+n
+0 0 m
+0 40 l
+S
+n
+505 0 m
+505 40 l
+S
+n
+0 20 m
+505 20 l
+S
+n
+125 0 m
+125 40 l
+S
+n
+220 0 m
+220 40 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 691.8661 cm
+Q
+q
+1 0 0 1 51.35433 663.8661 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Task 4\0561 \055 Locate the defects) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 633.6661 cm
+q
+BT
+1 0 0 1 0 15.5 Tm
+12.1 TL
+/F1 8.7 Tf
+0.113725 0.160784 0.207843 rg
+<7f> Tj
+(  addInterest receives struct account a by value\056 C copies the structure into the function parameter\054 so changing a\056balance) Tj
+T*
+(changes only the local copy\056 The original element in list remains unchanged\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 603.4661 cm
+q
+BT
+1 0 0 1 0 15.5 Tm
+12.1 TL
+/F1 8.7 Tf
+0.113725 0.160784 0.207843 rg
+<7f> Tj
+(  p is declared as struct account \052p\056 The expression p\056number or p\056balance tries to access a member on a pointer\056 Use) Tj
+T*
+(p\055) Tj
+(\076) Tj
+(number and p\055) Tj
+(\076) Tj
+(balance\054 or \050\052p\051\056number and \050\052p\051\056balance\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 575.4661 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Task 4\0562 \055 Construct address evidence) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 545.2661 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 15.5 Tm
+/F1 8.7 Tf
+12.1 TL
+(The by\055value function prints the address of its local parameter\056 main prints the address of list\1330\135\056 The addresses should be) Tj
+T*
+(different because a is a separate copy\056 Address values themselves vary each run and must not be fabricated\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 522.4541 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 10.512 Tm
+/F3 7.3 Tf
+8.906 TL
+(printf\050\042address in main\072 \045p\134n\042\054 \050void \052\051\046list\1330\135\051\073) Tj
+T*
+(addInterest\050list\1330\135\054 4\0560f\051\073) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 494.4541 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Task 4\0563 \055 Repaired program) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 152.7341 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 329.82 Tm
+/F3 6.9 Tf
+8.418 TL
+(\043include \074stdio\056h\076) Tj
+T*
+T*
+(struct account \173 int number\073 float balance\073 \175\073) Tj
+T*
+T*
+(\057\052 Address evidence for the pass\055by\055value version\056 \052\057) Tj
+T*
+(void addInterest\050struct account a\054 float rate\051) Tj
+T*
+(\173) Tj
+T*
+(    printf\050\042address inside by\055value function\072 \045p\134n\042\054 \050void \052\051\046a\051\073) Tj
+T*
+(    a\056balance \075 a\056balance \053 a\056balance \052 rate \057 100\0560f\073) Tj
+T*
+(\175) Tj
+T*
+T*
+(\057\052 Correct version\072 pointer lets the function modify the caller\047s object\056 \052\057) Tj
+T*
+(void addInterest\137pointer\050struct account \052a\054 float rate\051) Tj
+T*
+(\173) Tj
+T*
+(    if \050a \075\075 NULL\051 return\073) Tj
+T*
+(    a\055\076balance \075 a\055\076balance \053 a\055\076balance \052 rate \057 100\0560f\073) Tj
+T*
+(\175) Tj
+T*
+T*
+(int main\050void\051) Tj
+T*
+(\173) Tj
+T*
+(    struct account list\1333\135 \075 \173) Tj
+T*
+(        \173101\054 5000\0560f\175\054 \173102\054 12000\0560f\175\054 \173103\054 800\0560f\175) Tj
+T*
+(    \175\073) Tj
+T*
+(    struct account \052p \075 list\073) Tj
+T*
+(    int i\073) Tj
+T*
+T*
+(    printf\050\042address in main\072 \045p\134n\042\054 \050void \052\051\046list\1330\135\051\073) Tj
+T*
+(    addInterest\050list\1330\135\054 4\0560f\051\073) Tj
+T*
+T*
+(    for \050i \075 0\073 i \074 3\073 \053\053i\051) Tj
+T*
+(        addInterest\137pointer\050\046list\133i\135\054 4\0560f\051\073) Tj
+T*
+T*
+(    for \050i \075 0\073 i \074 3\073 \053\053i\051) Tj
+T*
+(        printf\050\042\045d \045\0562f\134n\042\054 p\133i\135\056number\054 p\133i\135\056balance\051\073) Tj
+T*
+T*
+(    \057\052 Correct pointer\055member access uses \055\076\054 not p\056number\056 \052\057) Tj
+T*
+(    printf\050\042first account via pointer\072 \045d \045\0562f\134n\042\054) Tj
+T*
+(           p\055\076number\054 p\055\076balance\051\073) Tj
+T*
+(    return 0\073) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 133.6341 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 3.4 Tm
+/F1 8.7 Tf
+12.1 TL
+(GCC compile\072 gcc \055std\075c11 \055Wall \055Wextra task04\056c \055o task04) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 115.5341 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 3.4 Tm
+/F1 8.7 Tf
+12.1 TL
+(Run\072 \056\057task04) Tj
+T*
+ET
+Q
+Q
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+518.2756 19 58 15 re
+f*
+0.356863 0.419608 0.470588 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 523.8463 26.92913 Tm
+(Page 10) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+41 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+42 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+43 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+44 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+45 0 obj
+<<
+/Contents 46 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 41 0 R
+/F1-0 47 0 R
+/F2 43 0 R
+/F3 44 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+46 0 obj
+<<
+/Length 6491
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.086275 0.196078 0.309804 rg
+n
+0 816.378 595.2756 25.51181 re
+f*
+1 1 1 rg
+BT
+/F2 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 45.35433 824.5984 Tm
+(CSA02  \174  C PROGRAMMING  \174  ASSIGNMENT 4) Tj
+T*
+ET
+0.839216 0.870588 0.898039 RG
+0.5 w
+n
+45.35433 39.68504 m
+549.9213 39.68504 l
+S
+0.356863 0.419608 0.470588 rg
+BT
+/F1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 45.35433 26.92913 Tm
+(R\056 Surya  \174  1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 2) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 780.3701 cm
+q
+0.031373 0.494118 0.545098 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(Expected deterministic output portion) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 742.2341 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 27.936 Tm
+/F3 7.2 Tf
+8.784 TL
+(101 5200\05600) Tj
+T*
+(102 12480\05600) Tj
+T*
+(103 832\05600) Tj
+T*
+(first account via pointer\072 101 5200\05600) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 711.0341 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 15.5 Tm
+/F1 8.7 Tf
+12.1 TL
+(The first two address lines are intentionally not printed as fixed values because memory addresses depend on the run and) Tj
+T*
+(environment\056 The original account values are multiplied by 1\05604\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.1378 649.0341 cm
+q
+0.917647 0.952941 0.960784 rg
+n
+0 57 505 -57 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 8 40 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 2.8 Tm
+/F2 8.2 Tf
+11 TL
+(Screenshot placeholders) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 6 cm
+q
+BT
+1 0 0 1 0 22.4 Tm
+10 TL
+/F1 7.6 Tf
+0.356863 0.419608 0.470588 rg
+(\133INSERT SCREENSHOT\072 Task04 Compilation\135) Tj
+T*
+(\133INSERT SCREENSHOT\072 Task04 Address Evidence\135) Tj
+T*
+(\133INSERT SCREENSHOT\072 Task04 Output\135) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.031373 0.494118 0.545098 RG
+0.6 w
+n
+0 57 m
+505 57 l
+S
+n
+0 0 m
+505 0 l
+S
+n
+0 0 m
+0 57 l
+S
+n
+505 0 m
+505 57 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 621.0341 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Task 4\0564 \055 When to pass by value\054 pointer or const pointer) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 506.0341 cm
+q
+0.086275 0.196078 0.309804 rg
+n
+0 110 505 -20 re
+f*
+1 1 1 rg
+n
+0 90 505 -30 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 60 505 -30 re
+f*
+1 1 1 rg
+n
+0 30 505 -30 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 95 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Passing method) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 111 95 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Use it when) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 311 95 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Effect) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(By value\072 struct account a) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 111 65 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+-0.093763 Tw
+(The function needs a small independent copy and must) Tj
+T*
+0 Tw
+(not modify the caller\047s object\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 311 65 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(The parameter is a separate copy\056 Changes do not) Tj
+T*
+(affect the original\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Pointer\072 struct account \052a) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 111 35 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(The function must update the caller\047s object or avoid) Tj
+T*
+(copying a larger structure\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 311 35 cm
+q
+BT
+1 0 0 1 0 12.3 Tm
+10 TL
+/F1 7.7 Tf
+0.113725 0.160784 0.207843 rg
+(The function can modify the original\073 check for NULL) Tj
+T*
+(and use \055) Tj
+(\076) Tj
+(\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Const pointer\072 const struct) Tj
+T*
+(account \052a) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 111 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(The function only reads the original object and should) Tj
+T*
+(avoid copying it\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 311 5 cm
+q
+BT
+1 0 0 1 0 12.3 Tm
+10 TL
+/F1 7.7 Tf
+0.113725 0.160784 0.207843 rg
+(The function cannot modify fields through this pointer\073) Tj
+T*
+(use \055) Tj
+(\076 for access\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.870588 0.898039 RG
+0.45 w
+n
+0 110 m
+505 110 l
+S
+n
+0 0 m
+505 0 l
+S
+n
+0 0 m
+0 110 l
+S
+n
+505 0 m
+505 110 l
+S
+n
+0 90 m
+505 90 l
+S
+n
+0 60 m
+505 60 l
+S
+n
+0 30 m
+505 30 l
+S
+n
+105 0 m
+105 110 l
+S
+n
+305 0 m
+305 110 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 478.0341 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Alternative concept \055 Return the modified value) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 402.7621 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 63.072 Tm
+/F3 7.2 Tf
+8.784 TL
+(struct account addInterest\137return\050struct account a\054 float rate\051) Tj
+T*
+(\173) Tj
+T*
+(    a\056balance \053\075 a\056balance \052 rate \057 100\0560f\073) Tj
+T*
+(    return a\073) Tj
+T*
+(\175) Tj
+T*
+T*
+(for \050int i \075 0\073 i \074 3\073 \053\053i\051) Tj
+T*
+(    list\133i\135 \075 addInterest\137return\050list\133i\135\054 4\0560f\051\073) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 347.3621 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 39.7 Tm
+/F1 8.7 Tf
+12.1 TL
+(This works because the caller assigns the returned modified structure back to list\133i\135\056 With sizeof\050struct account\051 typically 8 bytes) Tj
+T*
+(\050int plus float\051\054 the source\055level model transfers one 8\055byte parameter copy into the function and one 8\055byte return value back\072) Tj
+T*
+(about 2 x 8 \075 16 logical bytes per call\054 followed by assignment to the caller\047s element\056 The compiler\057ABI may use registers or) Tj
+T*
+(optimize copies away\056 Pointer passing sends one pointer \050typically 8 bytes on a 64\055bit system\051 and updates the original directly\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 305.0621 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 27.6 Tm
+/F1 8.7 Tf
+12.1 TL
+(Both versions take O\0501\051 time per account because the structure has a fixed number of fields\056 Processing n accounts takes O\050n\051\056) Tj
+T*
+-0.037928 Tw
+(By\055value passing uses a local copy\073 pointer passing uses pointer\055sized parameter storage and avoids the explicit structure copy\056) Tj
+T*
+0 Tw
+(For large structures\054 const pointers are usually efficient for read\055only access\056) Tj
+T*
+ET
+Q
+Q
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+518.2756 19 58 15 re
+f*
+0.356863 0.419608 0.470588 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 523.8463 26.92913 Tm
+(Page 11) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+47 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+48 0 obj
+<<
+/Contents 49 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 50 0 R
+/F1-0 51 0 R
+/F2 52 0 R
+/F3 53 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+49 0 obj
+<<
+/Length 4876
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.086275 0.196078 0.309804 rg
+n
+0 816.378 595.2756 25.51181 re
+f*
+1 1 1 rg
+BT
+/F2 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 45.35433 824.5984 Tm
+(CSA02  \174  C PROGRAMMING  \174  ASSIGNMENT 4) Tj
+T*
+ET
+0.839216 0.870588 0.898039 RG
+0.5 w
+n
+45.35433 39.68504 m
+549.9213 39.68504 l
+S
+0.356863 0.419608 0.470588 rg
+BT
+/F1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 45.35433 26.92913 Tm
+(R\056 Surya  \174  1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 1) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 784.8661 cm
+Q
+q
+1 0 0 1 51.35433 738.8661 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 27 Tm
+/F2 19 Tf
+23 TL
+(TASK 5 \174 Storage Classes\072 The Same Counter Four) Tj
+T*
+(Ways) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 722.8661 cm
+q
+0.356863 0.419608 0.470588 rg
+BT
+1 0 0 1 0 3.8 Tm
+/F1 9.2 Tf
+13 TL
+(CO4 \055 Structures\054 unions and storage classes \174 7 marks) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 674.8661 cm
+q
+0.031373 0.494118 0.545098 rg
+n
+0 40 505 -20 re
+f*
+1 1 1 rg
+n
+0 20 505 -20 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 25 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Student) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 131 25 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Register Number) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 226 25 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(GitHub Repository) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(R\056 Surya) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 131 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(1924260114) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 226 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+() Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.870588 0.898039 RG
+0.45 w
+n
+0 40 m
+505 40 l
+S
+n
+0 0 m
+505 0 l
+S
+n
+0 0 m
+0 40 l
+S
+n
+505 0 m
+505 40 l
+S
+n
+0 20 m
+505 20 l
+S
+n
+125 0 m
+125 40 l
+S
+n
+220 0 m
+220 40 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 668.8661 cm
+Q
+q
+1 0 0 1 51.35433 640.8661 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Task 5\0561 \055 Four implementations) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 515.8661 cm
+q
+0.086275 0.196078 0.309804 rg
+n
+0 120 505 -20 re
+f*
+1 1 1 rg
+n
+0 100 505 -20 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 80 505 -20 re
+f*
+1 1 1 rg
+n
+0 60 505 -30 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 30 505 -30 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 105 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Version) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 111 105 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Implementation and behavior) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 85 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(auto local) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 111 85 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(int token \075 1000\073 return \053\053token\073 The variable is created on each call\054 so each call returns 1001\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 65 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(static local) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 111 65 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(static int token \075 1000\073 return \053\053token\073 The variable keeps its value between calls\054 producing 1001\054 1002\054 1003\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(extern global) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 111 35 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(counter\056c defines int shared\137counter \075 1000\073 task05\137main\056c declares extern int shared\137counter and increments it\056) Tj
+T*
+(Both translation units refer to the same object\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(register loop variable) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 111 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(The register keyword is used for a loop index in the printing loop\056 It does not create a persistent token counter\073 the) Tj
+T*
+(token state must come from a separate counter\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.870588 0.898039 RG
+0.45 w
+n
+0 120 m
+505 120 l
+S
+n
+0 0 m
+505 0 l
+S
+n
+0 0 m
+0 120 l
+S
+n
+505 0 m
+505 120 l
+S
+n
+0 100 m
+505 100 l
+S
+n
+0 80 m
+505 80 l
+S
+n
+0 60 m
+505 60 l
+S
+n
+0 30 m
+505 30 l
+S
+n
+105 0 m
+105 120 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 485.6661 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 15.5 Tm
+/F1 8.7 Tf
+12.1 TL
+(The faculty wording places register in the printing loop\056 It is therefore important not to claim register itself preserves token) Tj
+T*
+(values\056 It applies to the loop\055control variable\073 the token sequence is supplied by the expression or counter being printed\056) Tj
+T*
+ET
+Q
+Q
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+518.2756 19 58 15 re
+f*
+0.356863 0.419608 0.470588 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 523.8463 26.92913 Tm
+(Page 12) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+50 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+51 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+52 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+53 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+54 0 obj
+<<
+/Contents 55 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 50 0 R
+/F1-0 56 0 R
+/F2 52 0 R
+/F3 53 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+55 0 obj
+<<
+/Length 5462
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.086275 0.196078 0.309804 rg
+n
+0 816.378 595.2756 25.51181 re
+f*
+1 1 1 rg
+BT
+/F2 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 45.35433 824.5984 Tm
+(CSA02  \174  C PROGRAMMING  \174  ASSIGNMENT 4) Tj
+T*
+ET
+0.839216 0.870588 0.898039 RG
+0.5 w
+n
+45.35433 39.68504 m
+549.9213 39.68504 l
+S
+0.356863 0.419608 0.470588 rg
+BT
+/F1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 45.35433 26.92913 Tm
+(R\056 Surya  \174  1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 2) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 776.3701 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Task 5\0561 \055 Working two\055file example) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 755.3701 cm
+q
+0.031373 0.494118 0.545098 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(File\072 task05\137main\056c) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 373.5601 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 371.91 Tm
+/F3 6.9 Tf
+8.418 TL
+(\043include \074stdio\056h\076) Tj
+T*
+T*
+(extern int shared\137counter\073 \057\052 defined in counter\056c \052\057) Tj
+T*
+T*
+(int next\137extern\137token\050void\051) Tj
+T*
+(\173) Tj
+T*
+(    return \053\053shared\137counter\073) Tj
+T*
+(\175) Tj
+T*
+T*
+(static int next\137static\137token\050void\051) Tj
+T*
+(\173) Tj
+T*
+(    static int token \075 1000\073) Tj
+T*
+(    return \053\053token\073) Tj
+T*
+(\175) Tj
+T*
+T*
+(static int next\137auto\137token\050void\051) Tj
+T*
+(\173) Tj
+T*
+(    int token \075 1000\073  \057\052 recreated on every call \052\057) Tj
+T*
+(    return \053\053token\073) Tj
+T*
+(\175) Tj
+T*
+T*
+(int main\050void\051) Tj
+T*
+(\173) Tj
+T*
+(    int a1 \075 next\137auto\137token\050\051\073) Tj
+T*
+(    int a2 \075 next\137auto\137token\050\051\073) Tj
+T*
+(    int a3 \075 next\137auto\137token\050\051\073) Tj
+T*
+(    int s1 \075 next\137static\137token\050\051\073) Tj
+T*
+(    int s2 \075 next\137static\137token\050\051\073) Tj
+T*
+(    int s3 \075 next\137static\137token\050\051\073) Tj
+T*
+(    int e1 \075 next\137extern\137token\050\051\073) Tj
+T*
+(    int e2 \075 next\137extern\137token\050\051\073) Tj
+T*
+(    int e3 \075 next\137extern\137token\050\051\073) Tj
+T*
+(    int tokens\1333\135 \075 \1731001\054 1002\054 1003\175\073) Tj
+T*
+T*
+(    printf\050\042auto\072   \045d \045d \045d\134n\042\054 a1\054 a2\054 a3\051\073) Tj
+T*
+(    printf\050\042static\072 \045d \045d \045d\134n\042\054 s1\054 s2\054 s3\051\073) Tj
+T*
+(    printf\050\042extern\072 \045d \045d \045d\134n\042\054 e1\054 e2\054 e3\051\073) Tj
+T*
+T*
+(    \057\052 register applies to this loop index\054 not to persistent token state\056 \052\057) Tj
+T*
+(    printf\050\042register\055loop token labels\072\042\051\073) Tj
+T*
+(    for \050register int k \075 0\073 k \074 3\073 \053\053k\051) Tj
+T*
+(        printf\050\042 \045d\042\054 tokens\133k\135\051\073) Tj
+T*
+(    printf\050\042\134n\042\051\073) Tj
+T*
+(    return 0\073) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 352.5601 cm
+q
+0.031373 0.494118 0.545098 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(File\072 counter\056c) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 332.2361 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 10.224 Tm
+/F3 7.1 Tf
+8.662 TL
+(\057\052 counter\056c \055 separate translation unit \052\057) Tj
+T*
+(int shared\137counter \075 1000\073) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 313.1361 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 3.4 Tm
+/F1 8.7 Tf
+12.1 TL
+(GCC compile\072 gcc \055std\075c11 \055Wall \055Wextra task05\137main\056c counter\056c \055o task05) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 295.0361 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 3.4 Tm
+/F1 8.7 Tf
+12.1 TL
+(Run\072 \056\057task05) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 274.0361 cm
+q
+0.031373 0.494118 0.545098 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(Representative output) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 235.9001 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 27.936 Tm
+/F3 7.2 Tf
+8.784 TL
+(auto\072   1001 1001 1001) Tj
+T*
+(static\072 1001 1002 1003) Tj
+T*
+(extern\072 1001 1002 1003) Tj
+T*
+(register\055loop token labels\072 1001 1002 1003) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 180.5001 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 39.7 Tm
+/F1 8.7 Tf
+12.1 TL
+(The main program saves each token in a separate initializer\054 so the displayed sequence is predictable\056 The additional) Tj
+T*
+(experiment requested by the faculty is printf\050\042\045d \045d \045d\134n\042\054 next\137extern\137token\050\051\054 next\137extern\137token\050\051\054 next\137extern\137token\050\051\051\056 Its) Tj
+T*
+(argument evaluation order is unspecified\054 so the displayed numbers may appear in a different order\056 For guaranteed left\055to\055right) Tj
+T*
+(sequencing\054 call the function in separate statements and then print the saved values\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 45.1378 128.5001 cm
+q
+0.917647 0.952941 0.960784 rg
+n
+0 47 505 -47 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 8 30 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 2.8 Tm
+/F2 8.2 Tf
+11 TL
+(Screenshot placeholders) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 6 cm
+q
+BT
+1 0 0 1 0 12.4 Tm
+10 TL
+/F1 7.6 Tf
+0.356863 0.419608 0.470588 rg
+(\133INSERT SCREENSHOT\072 Task05 Compilation\135) Tj
+T*
+(\133INSERT SCREENSHOT\072 Task05 Output\135) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.031373 0.494118 0.545098 RG
+0.6 w
+n
+0 47 m
+505 47 l
+S
+n
+0 0 m
+505 0 l
+S
+n
+0 0 m
+0 47 l
+S
+n
+505 0 m
+505 47 l
+S
+Q
+Q
+Q
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+518.2756 19 58 15 re
+f*
+0.356863 0.419608 0.470588 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 523.8463 26.92913 Tm
+(Page 13) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+56 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+57 0 obj
+<<
+/Contents 58 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 50 0 R
+/F1-0 59 0 R
+/F2 52 0 R
+/F3 53 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+58 0 obj
+<<
+/Length 9273
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.086275 0.196078 0.309804 rg
+n
+0 816.378 595.2756 25.51181 re
+f*
+1 1 1 rg
+BT
+/F2 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 45.35433 824.5984 Tm
+(CSA02  \174  C PROGRAMMING  \174  ASSIGNMENT 4) Tj
+T*
+ET
+0.839216 0.870588 0.898039 RG
+0.5 w
+n
+45.35433 39.68504 m
+549.9213 39.68504 l
+S
+0.356863 0.419608 0.470588 rg
+BT
+/F1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 45.35433 26.92913 Tm
+(R\056 Surya  \174  1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 3) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 776.3701 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Task 5\0562 \055 Two independent counters) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 657.1781 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 106.992 Tm
+/F3 7.2 Tf
+8.784 TL
+(\043include \074stddef\056h\076) Tj
+T*
+(int next\137token\050int \052counter\051) Tj
+T*
+(\173) Tj
+T*
+(    if \050counter \075\075 NULL\051 return \0551\073) Tj
+T*
+(    return \053\053\050\052counter\051\073) Tj
+T*
+(\175) Tj
+T*
+T*
+(int veg \075 1000\073) Tj
+T*
+(int nonveg \075 2000\073) Tj
+T*
+(int v1 \075 next\137token\050\046veg\051\054 v2 \075 next\137token\050\046veg\051\073) Tj
+T*
+(int n1 \075 next\137token\050\046nonveg\051\054 n2 \075 next\137token\050\046nonveg\051\073) Tj
+T*
+(printf\050\042veg\072 \045d \045d\134n\042\054 v1\054 v2\051\073) Tj
+T*
+(printf\050\042non\055veg\072 \045d \045d\134n\042\054 n1\054 n2\051\073) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 490.1781 cm
+q
+0.086275 0.196078 0.309804 rg
+n
+0 160 505 -20 re
+f*
+1 1 1 rg
+n
+0 140 505 -30 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 110 505 -40 re
+f*
+1 1 1 rg
+n
+0 70 505 -30 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 40 505 -40 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 145 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Version) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 96 145 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Change needed for veg and non\055veg) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 366 145 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Assessment) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 125 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(auto) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 96 115 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Pass a caller\055owned counter pointer or value into the function\056 A local auto) Tj
+T*
+(variable alone cannot remember either sequence\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 366 115 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Moderate change\073 pointer\055based state) Tj
+T*
+(is the clearest approach\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 95 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(static local) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 96 85 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Use two separate static variables or separate functions\056 A single static) Tj
+T*
+(variable is shared by all callers\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 366 75 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 22.3 Tm
+/F1 7.7 Tf
+10 TL
+(Small change for exactly two fixed) Tj
+T*
+(counters\073 less flexible for many) Tj
+T*
+(counters\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 55 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(extern) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 96 45 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Define two globals\054 such as veg\137counter and nonveg\137counter\054 and declare) Tj
+T*
+(both with extern in the files that use them\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 366 45 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Easy to add\054 but globals can be) Tj
+T*
+(modified by many functions\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 25 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(register loop variable) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 96 15 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+-0.0388 Tw
+(Keep a distinct normal counter for each food type\056 A register loop index only) Tj
+T*
+0 Tw
+(controls iteration\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 366 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 22.3 Tm
+/F1 7.7 Tf
+10 TL
+(Not a token\055state solution\073 register) Tj
+T*
+(does not preserve a sequence across) Tj
+T*
+(calls\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.870588 0.898039 RG
+0.45 w
+n
+0 160 m
+505 160 l
+S
+n
+0 0 m
+505 0 l
+S
+n
+0 0 m
+0 160 l
+S
+n
+505 0 m
+505 160 l
+S
+n
+0 140 m
+505 140 l
+S
+n
+0 110 m
+505 110 l
+S
+n
+0 70 m
+505 70 l
+S
+n
+0 40 m
+505 40 l
+S
+n
+90 0 m
+90 160 l
+S
+n
+360 0 m
+360 160 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 462.1781 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Task 5\0563 \055 Compare storage classes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 307.1781 cm
+q
+0.086275 0.196078 0.309804 rg
+n
+0 150 505 -20 re
+f*
+1 1 1 rg
+n
+0 130 505 -30 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 100 505 -30 re
+f*
+1 1 1 rg
+n
+0 70 505 -40 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 30 505 -30 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 135 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Class) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 81 135 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Scope) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 211 135 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Lifetime) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 336 135 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Initial value \057 risk) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 115 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(auto) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 81 115 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Block scope) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 211 115 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(While execution is in the block) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 336 105 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Indeterminate if not initialized\073 each call gets a) Tj
+T*
+(new object\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 85 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(static local) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 81 85 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Block scope) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 211 85 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Entire program execution) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 336 75 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Zero\055initialized by default\073 retains value\073 only) Tj
+T*
+(the declaring function can name it directly\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 55 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(extern) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 81 45 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Declared in a file\057block\073 refers to) Tj
+T*
+(an external object) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 211 45 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Entire program execution for the) Tj
+T*
+(defined global) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 336 35 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 22.3 Tm
+/F1 7.7 Tf
+10 TL
+(Zero\055initialized if defined without explicit) Tj
+T*
+(initializer\073 broad visibility makes accidental) Tj
+T*
+(modification easier\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 15 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(register) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 81 15 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Block scope) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 211 15 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(While execution is in the block) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 336 5 cm
+q
+BT
+1 0 0 1 0 12.3 Tm
+10 TL
+/F1 7.7 Tf
+0.113725 0.160784 0.207843 rg
+(Indeterminate if not initialized\056 Address\055of \050) Tj
+(\046) Tj
+(\051 is) Tj
+T*
+(not permitted for an object declared register\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.870588 0.898039 RG
+0.45 w
+n
+0 150 m
+505 150 l
+S
+n
+0 0 m
+505 0 l
+S
+n
+0 0 m
+0 150 l
+S
+n
+505 0 m
+505 150 l
+S
+n
+0 130 m
+505 130 l
+S
+n
+0 100 m
+505 100 l
+S
+n
+0 70 m
+505 70 l
+S
+n
+0 30 m
+505 30 l
+S
+n
+75 0 m
+75 150 l
+S
+n
+205 0 m
+205 150 l
+S
+n
+330 0 m
+330 150 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 276.9781 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 15.5 Tm
+/F1 8.7 Tf
+12.1 TL
+(The compiler may ignore the request to place a register object in a CPU register\056 The important C language rule is that a) Tj
+T*
+(program may not apply the address\055of operator to an object declared with register storage class\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 248.9781 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Alternative concept \055 Caller\055owned counter pointer) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 194.5781 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 39.7 Tm
+/F1 8.7 Tf
+12.1 TL
+(next\137token\050int \052counter\051 increments the integer owned by the caller\056 Each counter has the lifetime of its owner and can be) Tj
+T*
+(passed independently\056 The function takes O\0501\051 time and O\0501\051 extra space\056 Two independent counters require two integers and) Tj
+T*
+(two pointer arguments over time\073 no global state is needed\056 Static and extern approaches are also O\0501\051\054 but they keep state) Tj
+T*
+(inside a function or global program scope\056) Tj
+T*
+ET
+Q
+Q
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+518.2756 19 58 15 re
+f*
+0.356863 0.419608 0.470588 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 523.8463 26.92913 Tm
+(Page 14) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+59 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+60 0 obj
+<<
+/Contents 61 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 62 0 R
+/F1-0 63 0 R
+/F2 64 0 R
+/F3 65 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+61 0 obj
+<<
+/Length 8100
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.086275 0.196078 0.309804 rg
+n
+0 816.378 595.2756 25.51181 re
+f*
+1 1 1 rg
+BT
+/F2 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 45.35433 824.5984 Tm
+(CSA02  \174  C PROGRAMMING  \174  ASSIGNMENT 4) Tj
+T*
+ET
+0.839216 0.870588 0.898039 RG
+0.5 w
+n
+45.35433 39.68504 m
+549.9213 39.68504 l
+S
+0.356863 0.419608 0.470588 rg
+BT
+/F1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 45.35433 26.92913 Tm
+(R\056 Surya  \174  1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 1) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 784.8661 cm
+Q
+q
+1 0 0 1 51.35433 738.8661 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 27 Tm
+/F2 19 Tf
+23 TL
+-0.226439 Tw
+(TASK 6 \174 Design Challenge\072 College Canteen Inventory) Tj
+T*
+0 Tw
+(and Billing) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 722.8661 cm
+q
+0.356863 0.419608 0.470588 rg
+BT
+1 0 0 1 0 3.8 Tm
+/F1 9.2 Tf
+13 TL
+(CO4 \055 Structures\054 unions and storage classes \174 13 marks) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 674.8661 cm
+q
+0.031373 0.494118 0.545098 rg
+n
+0 40 505 -20 re
+f*
+1 1 1 rg
+n
+0 20 505 -20 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 25 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Student) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 131 25 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Register Number) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 226 25 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(GitHub Repository) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(R\056 Surya) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 131 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(1924260114) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 226 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+() Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.870588 0.898039 RG
+0.45 w
+n
+0 40 m
+505 40 l
+S
+n
+0 0 m
+505 0 l
+S
+n
+0 0 m
+0 40 l
+S
+n
+505 0 m
+505 40 l
+S
+n
+0 20 m
+505 20 l
+S
+n
+125 0 m
+125 40 l
+S
+n
+220 0 m
+220 40 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 668.8661 cm
+Q
+q
+1 0 0 1 51.35433 640.8661 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Stage 1 \055 Interpret the problem) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 465.8661 cm
+q
+0.086275 0.196078 0.309804 rg
+n
+0 170 505 -20 re
+f*
+1 1 1 rg
+n
+0 150 505 -20 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 130 505 -20 re
+f*
+1 1 1 rg
+n
+0 110 505 -20 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 90 505 -30 re
+f*
+1 1 1 rg
+n
+0 60 505 -20 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 40 505 -40 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 155 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Entity) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 116 155 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Data and rules) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 135 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Item) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 116 135 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(ID\054 name\054 selling price\054 item type and stock count\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 115 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Packaged details) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 116 115 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Expiry date represented by a nested Date structure\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 95 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Cooked details) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 116 95 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Preparation time represented by a nested Time structure\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Combo details) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 116 65 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Up to three component item IDs and quantities\056 In this implementation\054 combo recipes reference) Tj
+T*
+(packaged\057cooked base items\073 nested combos are not used\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 45 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Sale summary) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 116 45 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Item ID\054 total quantity sold and total revenue\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 25 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Rules) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 116 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 22.3 Tm
+/F1 7.7 Tf
+10 TL
+(Quantity must be positive\073 a sale must not exceed stock\073 combo component stock must be checked before any) Tj
+T*
+(deduction\073 expiry warnings apply to packaged items expiring in 0\0552 days\073 revenue summary is sorted) Tj
+T*
+(descending\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.870588 0.898039 RG
+0.45 w
+n
+0 170 m
+505 170 l
+S
+n
+0 0 m
+505 0 l
+S
+n
+0 0 m
+0 170 l
+S
+n
+505 0 m
+505 170 l
+S
+n
+0 150 m
+505 150 l
+S
+n
+0 130 m
+505 130 l
+S
+n
+0 110 m
+505 110 l
+S
+n
+0 90 m
+505 90 l
+S
+n
+0 60 m
+505 60 l
+S
+n
+0 40 m
+505 40 l
+S
+n
+110 0 m
+110 170 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 444.8661 cm
+q
+0.031373 0.494118 0.545098 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(Testable requirements) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 426.7661 cm
+q
+BT
+1 0 0 1 0 3.4 Tm
+12.1 TL
+/F1 8.7 Tf
+0.113725 0.160784 0.207843 rg
+<7f> Tj
+(  A valid sale decreases stock by the correct amount and adds price x quantity to the matching revenue total\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 408.6661 cm
+q
+BT
+1 0 0 1 0 3.4 Tm
+12.1 TL
+/F1 8.7 Tf
+0.113725 0.160784 0.207843 rg
+<7f> Tj
+(  An invalid or excessive sale is rejected and leaves all stock and revenue values unchanged\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 390.5661 cm
+q
+BT
+1 0 0 1 0 3.4 Tm
+12.1 TL
+/F1 8.7 Tf
+0.113725 0.160784 0.207843 rg
+<7f> Tj
+(  A combo sale checks every component before changing any component stock\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 372.4661 cm
+q
+BT
+1 0 0 1 0 3.4 Tm
+12.1 TL
+/F1 8.7 Tf
+0.113725 0.160784 0.207843 rg
+<7f> Tj
+(  Every packaged item with an expiry date from today through two days ahead is reported\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 354.3661 cm
+q
+BT
+1 0 0 1 0 3.4 Tm
+12.1 TL
+/F1 8.7 Tf
+0.113725 0.160784 0.207843 rg
+<7f> Tj
+(  The final summary is ordered from highest to lowest revenue\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 326.3661 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Stage 2 \055 Proposed data model) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 284.0661 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 27.6 Tm
+/F1 8.7 Tf
+12.1 TL
+(Use an array of Item structures because the assignment expects a day\055level inventory and straightforward indexed traversal\056) Tj
+T*
+(Each Item has a tagged union\072 PACKAGED uses Date\054 COOKED uses Time and COMBO uses an array of at most three) Tj
+T*
+(Ingredient entries\056 Sale is a separate structure so billing data does not overwrite inventory data\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 256.0661 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Stage 3 \055 Critical design decisions) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 225.8661 cm
+q
+BT
+1 0 0 1 0 15.5 Tm
+12.1 TL
+/F1 8.7 Tf
+0.113725 0.160784 0.207843 rg
+<7f> Tj
+(  Stock update is transactional\072 validate all requested quantities and summary capacity first\054 then deduct stock\056 No partial) Tj
+T*
+(deduction occurs when one combo component is unavailable\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 195.6661 cm
+q
+BT
+1 0 0 1 0 15.5 Tm
+12.1 TL
+/F1 8.7 Tf
+0.113725 0.160784 0.207843 rg
+<7f> Tj
+(  Expiry is checked using calendar\055day arithmetic on Date fields\054 not string comparison\056 The demonstration uses 19\05711\0572026 as) Tj
+T*
+(today and a packaged item expiring on 20\05711\0572026\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 165.4661 cm
+q
+BT
+1 0 0 1 0 15.5 Tm
+12.1 TL
+/F1 8.7 Tf
+0.113725 0.160784 0.207843 rg
+<7f> Tj
+(  Inventory and sales are owned by main and passed to functions through pointers\056 No global mutable inventory is needed\056 A) Tj
+T*
+(static helper would only be justified for private state that must persist across calls\073 it is not required here\056) Tj
+T*
+ET
+Q
+Q
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+518.2756 19 58 15 re
+f*
+0.356863 0.419608 0.470588 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 523.8463 26.92913 Tm
+(Page 15) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+62 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+63 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+64 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+65 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+66 0 obj
+<<
+/Contents 67 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 62 0 R
+/F1-0 68 0 R
+/F2 64 0 R
+/F3 65 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+67 0 obj
+<<
+/Length 3516
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.086275 0.196078 0.309804 rg
+n
+0 816.378 595.2756 25.51181 re
+f*
+1 1 1 rg
+BT
+/F2 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 45.35433 824.5984 Tm
+(CSA02  \174  C PROGRAMMING  \174  ASSIGNMENT 4) Tj
+T*
+ET
+0.839216 0.870588 0.898039 RG
+0.5 w
+n
+45.35433 39.68504 m
+549.9213 39.68504 l
+S
+0.356863 0.419608 0.470588 rg
+BT
+/F1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 45.35433 26.92913 Tm
+(R\056 Surya  \174  1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 2) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 776.3701 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Stage 4 \055 Structures\054 prototypes and pseudocode) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 755.3701 cm
+q
+0.031373 0.494118 0.545098 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(Core function interfaces) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 684.0501 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 61.32 Tm
+/F3 7 Tf
+8.54 TL
+(Item \052find\137item\050Item items\133\135\054 size\137t count\054 int id\051\073) Tj
+T*
+(int record\137sale\050Item items\133\135\054 size\137t item\137count\054) Tj
+T*
+(                Sale sales\133\135\054 size\137t \052sale\137count\054) Tj
+T*
+(                int item\137id\054 int quantity\051\073) Tj
+T*
+(void expiry\137warning\050const Item items\133\135\054 size\137t count\054 Date today\051\073) Tj
+T*
+(void sort\137sales\137by\137revenue\050Sale sales\133\135\054 size\137t count\051\073) Tj
+T*
+(void print\137summary\050const Item items\133\135\054 size\137t item\137count\054) Tj
+T*
+(                   const Sale sales\133\135\054 size\137t sale\137count\051\073) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 663.0501 cm
+q
+0.031373 0.494118 0.545098 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(Pseudocode \055 record a sale) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 523.4101 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 129.64 Tm
+/F3 7 Tf
+8.54 TL
+(ALGORITHM RecordSale\050items\054 sales\054 itemId\054 qty\051) Tj
+T*
+(    IF qty \074\075 0 THEN REJECT and RETURN) Tj
+T*
+(    item \074\055 FIND itemId) Tj
+T*
+(    IF item does not exist THEN REJECT and RETURN) Tj
+T*
+(    IF item is COMBO THEN) Tj
+T*
+(        VALIDATE all component IDs and required stock) Tj
+T*
+(    ELSE) Tj
+T*
+(        VALIDATE item\056stock \076\075 qty) Tj
+T*
+(    END IF) Tj
+T*
+(    VALIDATE sales\055summary capacity) Tj
+T*
+(    IF any validation failed THEN REJECT and RETURN) Tj
+T*
+(    DEDUCT stock for item or all combo components) Tj
+T*
+(    ADD qty to sales\133itemId\135\056quantity) Tj
+T*
+(    ADD item\056price \052 qty to sales\133itemId\135\056revenue) Tj
+T*
+(    DISPLAY sale accepted) Tj
+T*
+(END ALGORITHM) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 502.4101 cm
+q
+0.031373 0.494118 0.545098 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(Pseudocode \055 expiry warning) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 414.0101 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 78.4 Tm
+/F3 7 Tf
+8.54 TL
+(ALGORITHM ExpiryWarning\050items\054 today\051) Tj
+T*
+(    FOR each item in items) Tj
+T*
+(        IF item\056type \075 PACKAGED THEN) Tj
+T*
+(            daysLeft \074\055 DATE\137DIFFERENCE\050today\054 item\056expiry\051) Tj
+T*
+(            IF 0 \074\075 daysLeft \074\075 2 THEN) Tj
+T*
+(                DISPLAY item name\054 expiry date and daysLeft) Tj
+T*
+(            END IF) Tj
+T*
+(        END IF) Tj
+T*
+(    END FOR) Tj
+T*
+(END ALGORITHM) Tj
+T*
+ET
+Q
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+518.2756 19 58 15 re
+f*
+0.356863 0.419608 0.470588 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 523.8463 26.92913 Tm
+(Page 16) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+68 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+69 0 obj
+<<
+/Contents 70 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 62 0 R
+/F1-0 71 0 R
+/F2 64 0 R
+/F3 65 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+70 0 obj
+<<
+/Length 5456
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.086275 0.196078 0.309804 rg
+n
+0 816.378 595.2756 25.51181 re
+f*
+1 1 1 rg
+BT
+/F2 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 45.35433 824.5984 Tm
+(CSA02  \174  C PROGRAMMING  \174  ASSIGNMENT 4) Tj
+T*
+ET
+0.839216 0.870588 0.898039 RG
+0.5 w
+n
+45.35433 39.68504 m
+549.9213 39.68504 l
+S
+0.356863 0.419608 0.470588 rg
+BT
+/F1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 45.35433 26.92913 Tm
+(R\056 Surya  \174  1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 3) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 776.3701 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Stage 5 \055 Complete GCC program and demonstration) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 66.08808 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 699.132 Tm
+/F3 6.15 Tf
+7.503 TL
+(\043include \074stdio\056h\076) Tj
+T*
+(\043include \074stddef\056h\076) Tj
+T*
+(\043include \074limits\056h\076) Tj
+T*
+T*
+(\043define MAX\137ITEMS 20) Tj
+T*
+(\043define MAX\137SALES 20) Tj
+T*
+(\043define MAX\137COMPONENTS 3) Tj
+T*
+T*
+(typedef struct \173 int day\054 month\054 year\073 \175 Date\073) Tj
+T*
+(typedef struct \173 int hour\054 minute\073 \175 Time\073) Tj
+T*
+(typedef enum \173 PACKAGED\054 COOKED\054 COMBO \175 ItemType\073) Tj
+T*
+(typedef struct \173 int item\137id\073 int quantity\073 \175 Ingredient\073) Tj
+T*
+T*
+(typedef struct \173) Tj
+T*
+(    int id\073) Tj
+T*
+(    char name\13340\135\073) Tj
+T*
+(    double price\073) Tj
+T*
+(    int stock\073                 \057\052 physical stock for packaged\057cooked items \052\057) Tj
+T*
+(    ItemType type\073) Tj
+T*
+(    union \173) Tj
+T*
+(        Date expiry\073           \057\052 PACKAGED \052\057) Tj
+T*
+(        Time prepared\073         \057\052 COOKED \052\057) Tj
+T*
+(        struct \173               \057\052 COMBO \052\057) Tj
+T*
+(            size\137t count\073) Tj
+T*
+(            Ingredient parts\133MAX\137COMPONENTS\135\073) Tj
+T*
+(        \175 combo\073) Tj
+T*
+(    \175 detail\073) Tj
+T*
+(\175 Item\073) Tj
+T*
+T*
+(typedef struct \173) Tj
+T*
+(    int item\137id\073) Tj
+T*
+(    int quantity\073) Tj
+T*
+(    double revenue\073) Tj
+T*
+(\175 Sale\073) Tj
+T*
+T*
+(static int valid\137date\050Date d\051) Tj
+T*
+(\173) Tj
+T*
+(    static const int month\137days\133\135 \075) Tj
+T*
+(        \1730\05431\05428\05431\05430\05431\05430\05431\05431\05430\05431\05430\05431\175\073) Tj
+T*
+(    int limit\073) Tj
+T*
+(    if \050d\056year \074 1 \174\174 d\056month \074 1 \174\174 d\056month \076 12 \174\174 d\056day \074 1\051) Tj
+T*
+(        return 0\073) Tj
+T*
+(    limit \075 month\137days\133d\056month\135\073) Tj
+T*
+(    if \050d\056month \075\075 2 \046\046) Tj
+T*
+(        \050d\056year \045 400 \075\075 0 \174\174 \050d\056year \045 4 \075\075 0 \046\046 d\056year \045 100 \041\075 0\051\051\051) Tj
+T*
+(        limit \075 29\073) Tj
+T*
+(    return d\056day \074\075 limit\073) Tj
+T*
+(\175) Tj
+T*
+T*
+(\057\052 Convert a valid Gregorian date to an integer day number\056 \052\057) Tj
+T*
+(static long days\137from\137civil\050Date d\051) Tj
+T*
+(\173) Tj
+T*
+(    int y \075 d\056year\073) Tj
+T*
+(    int m \075 d\056month\073) Tj
+T*
+(    int day \075 d\056day\073) Tj
+T*
+(    int era\054 yoe\054 mp\054 doy\054 doe\073) Tj
+T*
+(    y \055\075 \050m \074\075 2\051\073) Tj
+T*
+(    era \075 \050y \076\075 0 \077 y \072 y \055 399\051 \057 400\073) Tj
+T*
+(    yoe \075 y \055 era \052 400\073) Tj
+T*
+(    mp \075 m \053 \050m \076 2 \077 \0553 \072 9\051\073) Tj
+T*
+(    doy \075 \050153 \052 mp \053 2\051 \057 5 \053 day \055 1\073) Tj
+T*
+(    doe \075 yoe \052 365 \053 yoe \057 4 \055 yoe \057 100 \053 doy\073) Tj
+T*
+(    return \050long\051era \052 146097L \053 doe\073) Tj
+T*
+(\175) Tj
+T*
+T*
+(static Item \052find\137item\050Item items\133\135\054 size\137t count\054 int id\051) Tj
+T*
+(\173) Tj
+T*
+(    size\137t i\073) Tj
+T*
+(    for \050i \075 0\073 i \074 count\073 \053\053i\051) Tj
+T*
+(        if \050items\133i\135\056id \075\075 id\051 return \046items\133i\135\073) Tj
+T*
+(    return NULL\073) Tj
+T*
+(\175) Tj
+T*
+T*
+(\057\052 Sale records are kept one per sold item\073 sales has MAX\137SALES slots\056 \052\057) Tj
+T*
+(static int record\137sale\050Item items\133\135\054 size\137t item\137count\054) Tj
+T*
+(                       Sale sales\133\135\054 size\137t \052sale\137count\054) Tj
+T*
+(                       int item\137id\054 int quantity\051) Tj
+T*
+(\173) Tj
+T*
+(    Item \052sold\073) Tj
+T*
+(    size\137t i\054 sale\137index\073) Tj
+T*
+(    int found\137sale \075 0\073) Tj
+T*
+T*
+(    if \050items \075\075 NULL \174\174 sales \075\075 NULL \174\174 sale\137count \075\075 NULL \174\174 quantity \074\075 0\051) Tj
+T*
+(        return 0\073) Tj
+T*
+(    sold \075 find\137item\050items\054 item\137count\054 item\137id\051\073) Tj
+T*
+(    if \050sold \075\075 NULL\051 \173) Tj
+T*
+(        printf\050\042Rejected\072 unknown item \045d\134n\042\054 item\137id\051\073) Tj
+T*
+(        return 0\073) Tj
+T*
+(    \175) Tj
+T*
+T*
+(    if \050sold\055\076type \075\075 COMBO\051 \173) Tj
+T*
+(        if \050sold\055\076detail\056combo\056count \075\075 0 \174\174) Tj
+T*
+(            sold\055\076detail\056combo\056count \076 MAX\137COMPONENTS\051 \173) Tj
+T*
+(            printf\050\042Rejected\072 invalid combo recipe for \045s\134n\042\054 sold\055\076name\051\073) Tj
+T*
+ET
+Q
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+518.2756 19 58 15 re
+f*
+0.356863 0.419608 0.470588 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 523.8463 26.92913 Tm
+(Page 17) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+71 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+72 0 obj
+<<
+/Contents 73 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 62 0 R
+/F1-0 74 0 R
+/F2 64 0 R
+/F3 65 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+73 0 obj
+<<
+/Length 6656
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.086275 0.196078 0.309804 rg
+n
+0 816.378 595.2756 25.51181 re
+f*
+1 1 1 rg
+BT
+/F2 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 45.35433 824.5984 Tm
+(CSA02  \174  C PROGRAMMING  \174  ASSIGNMENT 4) Tj
+T*
+ET
+0.839216 0.870588 0.898039 RG
+0.5 w
+n
+45.35433 39.68504 m
+549.9213 39.68504 l
+S
+0.356863 0.419608 0.470588 rg
+BT
+/F1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 45.35433 26.92913 Tm
+(R\056 Surya  \174  1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 4) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 65.57908 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 721.641 Tm
+/F3 6.15 Tf
+7.503 TL
+(            return 0\073) Tj
+T*
+(        \175) Tj
+T*
+(        \057\052 Validate every component before changing any stock\056 \052\057) Tj
+T*
+(        for \050i \075 0\073 i \074 sold\055\076detail\056combo\056count\073 \053\053i\051 \173) Tj
+T*
+(            Ingredient part \075 sold\055\076detail\056combo\056parts\133i\135\073) Tj
+T*
+(            Item \052component \075 find\137item\050items\054 item\137count\054 part\056item\137id\051\073) Tj
+T*
+(            size\137t previous\073) Tj
+T*
+(            int duplicate \075 0\073) Tj
+T*
+(            for \050previous \075 0\073 previous \074 i\073 \053\053previous\051 \173) Tj
+T*
+(                if \050sold\055\076detail\056combo\056parts\133previous\135\056item\137id \075\075 part\056item\137id\051) Tj
+T*
+(                    duplicate \075 1\073) Tj
+T*
+(            \175) Tj
+T*
+(            if \050duplicate \174\174 part\056quantity \074\075 0 \174\174) Tj
+T*
+(                quantity \076 INT\137MAX \057 part\056quantity \174\174) Tj
+T*
+(                component \075\075 NULL \174\174 component \075\075 sold \174\174) Tj
+T*
+(                component\055\076type \075\075 COMBO \174\174) Tj
+T*
+(                component\055\076stock \074 quantity \052 part\056quantity\051 \173) Tj
+T*
+(                printf\050\042Rejected\072 insufficient or invalid combo component\134n\042\051\073) Tj
+T*
+(                return 0\073) Tj
+T*
+(            \175) Tj
+T*
+(        \175) Tj
+T*
+(    \175 else if \050sold\055\076stock \074 quantity\051 \173) Tj
+T*
+(        printf\050\042Rejected\072 insufficient stock for \045s \050requested \045d\054 available \045d\051\134n\042\054) Tj
+T*
+(               sold\055\076name\054 quantity\054 sold\055\076stock\051\073) Tj
+T*
+(        return 0\073) Tj
+T*
+(    \175) Tj
+T*
+T*
+(    for \050sale\137index \075 0\073 sale\137index \074 \052sale\137count\073 \053\053sale\137index\051 \173) Tj
+T*
+(        if \050sales\133sale\137index\135\056item\137id \075\075 item\137id\051 \173) Tj
+T*
+(            found\137sale \075 1\073) Tj
+T*
+(            break\073) Tj
+T*
+(        \175) Tj
+T*
+(    \175) Tj
+T*
+(    if \050\041found\137sale \046\046 \052sale\137count \076\075 MAX\137SALES\051 \173) Tj
+T*
+(        printf\050\042Rejected\072 sales summary is full\134n\042\051\073) Tj
+T*
+(        return 0\073) Tj
+T*
+(    \175) Tj
+T*
+T*
+(    \057\052 Commit stock changes only after all checks have succeeded\056 \052\057) Tj
+T*
+(    if \050sold\055\076type \075\075 COMBO\051 \173) Tj
+T*
+(        for \050i \075 0\073 i \074 sold\055\076detail\056combo\056count\073 \053\053i\051 \173) Tj
+T*
+(            Ingredient part \075 sold\055\076detail\056combo\056parts\133i\135\073) Tj
+T*
+(            Item \052component \075 find\137item\050items\054 item\137count\054 part\056item\137id\051\073) Tj
+T*
+(            component\055\076stock \055\075 quantity \052 part\056quantity\073) Tj
+T*
+(        \175) Tj
+T*
+(    \175 else \173) Tj
+T*
+(        sold\055\076stock \055\075 quantity\073) Tj
+T*
+(    \175) Tj
+T*
+T*
+(    if \050\041found\137sale\051 \173) Tj
+T*
+(        sale\137index \075 \052sale\137count\073) Tj
+T*
+(        sales\133sale\137index\135\056item\137id \075 item\137id\073) Tj
+T*
+(        sales\133sale\137index\135\056quantity \075 0\073) Tj
+T*
+(        sales\133sale\137index\135\056revenue \075 0\0560\073) Tj
+T*
+(        \050\052sale\137count\051\053\053\073) Tj
+T*
+(    \175) Tj
+T*
+(    sales\133sale\137index\135\056quantity \053\075 quantity\073) Tj
+T*
+(    sales\133sale\137index\135\056revenue \053\075 sold\055\076price \052 quantity\073) Tj
+T*
+(    printf\050\042Sale accepted\072 \045d x \045s \075 \045\0562f\134n\042\054) Tj
+T*
+(           quantity\054 sold\055\076name\054 sold\055\076price \052 quantity\051\073) Tj
+T*
+(    return 1\073) Tj
+T*
+(\175) Tj
+T*
+T*
+(static void expiry\137warning\050const Item items\133\135\054 size\137t count\054 Date today\051) Tj
+T*
+(\173) Tj
+T*
+(    size\137t i\073) Tj
+T*
+(    if \050\041valid\137date\050today\051\051 \173) Tj
+T*
+(        printf\050\042Invalid current date\134n\042\051\073) Tj
+T*
+(        return\073) Tj
+T*
+(    \175) Tj
+T*
+(    printf\050\042Expiry warning \050within 2 days\051\072\134n\042\051\073) Tj
+T*
+(    for \050i \075 0\073 i \074 count\073 \053\053i\051 \173) Tj
+T*
+(        if \050items\133i\135\056type \075\075 PACKAGED \046\046 valid\137date\050items\133i\135\056detail\056expiry\051\051 \173) Tj
+T*
+(            long days\137left \075 days\137from\137civil\050items\133i\135\056detail\056expiry\051 \055) Tj
+T*
+(                             days\137from\137civil\050today\051\073) Tj
+T*
+(            if \050days\137left \076\075 0 \046\046 days\137left \074\075 2\051 \173) Tj
+T*
+(                printf\050\042\045s expires \04502d\057\04502d\057\04504d \050\045ld day\050s\051 remaining\051\134n\042\054) Tj
+T*
+(                       items\133i\135\056name\054 items\133i\135\056detail\056expiry\056day\054) Tj
+T*
+(                       items\133i\135\056detail\056expiry\056month\054) Tj
+T*
+(                       items\133i\135\056detail\056expiry\056year\054 days\137left\051\073) Tj
+T*
+(            \175) Tj
+T*
+(        \175) Tj
+T*
+(    \175) Tj
+T*
+(\175) Tj
+T*
+T*
+(static void sort\137sales\137by\137revenue\050Sale sales\133\135\054 size\137t count\051) Tj
+T*
+(\173) Tj
+T*
+(    size\137t i\073) Tj
+T*
+(    for \050i \075 0\073 i \053 1 \074 count\073 \053\053i\051 \173) Tj
+T*
+(        size\137t best \075 i\054 j\073) Tj
+T*
+(        for \050j \075 i \053 1\073 j \074 count\073 \053\053j\051) Tj
+T*
+(            if \050sales\133j\135\056revenue \076 sales\133best\135\056revenue\051 best \075 j\073) Tj
+T*
+(        if \050best \041\075 i\051 \173) Tj
+T*
+(            Sale temp \075 sales\133i\135\073) Tj
+T*
+(            sales\133i\135 \075 sales\133best\135\073) Tj
+T*
+(            sales\133best\135 \075 temp\073) Tj
+T*
+(        \175) Tj
+T*
+ET
+Q
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+518.2756 19 58 15 re
+f*
+0.356863 0.419608 0.470588 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 523.8463 26.92913 Tm
+(Page 18) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+74 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+75 0 obj
+<<
+/Contents 76 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 62 0 R
+/F1-0 77 0 R
+/F2 64 0 R
+/F3 65 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+76 0 obj
+<<
+/Length 5167
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.086275 0.196078 0.309804 rg
+n
+0 816.378 595.2756 25.51181 re
+f*
+1 1 1 rg
+BT
+/F2 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 45.35433 824.5984 Tm
+(CSA02  \174  C PROGRAMMING  \174  ASSIGNMENT 4) Tj
+T*
+ET
+0.839216 0.870588 0.898039 RG
+0.5 w
+n
+45.35433 39.68504 m
+549.9213 39.68504 l
+S
+0.356863 0.419608 0.470588 rg
+BT
+/F1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 45.35433 26.92913 Tm
+(R\056 Surya  \174  1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 5) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 485.7471 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 301.473 Tm
+/F3 6.15 Tf
+7.503 TL
+(    \175) Tj
+T*
+(\175) Tj
+T*
+T*
+(static void print\137summary\050const Item items\133\135\054 size\137t item\137count\054) Tj
+T*
+(                          const Sale sales\133\135\054 size\137t sale\137count\051) Tj
+T*
+(\173) Tj
+T*
+(    size\137t i\073) Tj
+T*
+(    printf\050\042Revenue summary \050descending\051\072\134n\042\051\073) Tj
+T*
+(    for \050i \075 0\073 i \074 sale\137count\073 \053\053i\051 \173) Tj
+T*
+(        size\137t j\073) Tj
+T*
+(        const char \052name \075 \042Unknown item\042\073) Tj
+T*
+(        for \050j \075 0\073 j \074 item\137count\073 \053\053j\051) Tj
+T*
+(            if \050items\133j\135\056id \075\075 sales\133i\135\056item\137id\051 name \075 items\133j\135\056name\073) Tj
+T*
+(        printf\050\042\045s\072 \045\0562f\134n\042\054 name\054 sales\133i\135\056revenue\051\073) Tj
+T*
+(    \175) Tj
+T*
+(\175) Tj
+T*
+T*
+(int main\050void\051) Tj
+T*
+(\173) Tj
+T*
+(    Item items\1333\135 \075 \173) Tj
+T*
+(        \1731001\054 \042Biscuits\042\054 20\0560\054 10\054 PACKAGED\054) Tj
+T*
+(         \173\056expiry \075 \17320\054 11\054 2026\175\175\175\054) Tj
+T*
+(        \1732001\054 \042Tea\042\054 15\0560\054 20\054 COOKED\054) Tj
+T*
+(         \173\056prepared \075 \1739\054 30\175\175\175\054) Tj
+T*
+(        \1733001\054 \042Tea \053 Biscuits Combo\042\054 30\0560\054 0\054 COMBO\054) Tj
+T*
+(         \173\056combo \075 \1732\054 \173\1731001\054 1\175\054 \1732001\054 1\175\175\175\175\175) Tj
+T*
+(    \175\073) Tj
+T*
+(    Sale sales\133MAX\137SALES\135 \075 \173\1730\175\175\073) Tj
+T*
+(    size\137t sale\137count \075 0\073) Tj
+T*
+(    const Date today \075 \17319\054 11\054 2026\175\073) Tj
+T*
+T*
+(    record\137sale\050items\054 3\054 sales\054 \046sale\137count\054 1001\054 2\051\073 \057\052 normal sale \052\057) Tj
+T*
+(    record\137sale\050items\054 3\054 sales\054 \046sale\137count\054 2001\054 3\051\073 \057\052 cooked item \052\057) Tj
+T*
+(    record\137sale\050items\054 3\054 sales\054 \046sale\137count\054 3001\054 2\051\073 \057\052 combo ingredients \052\057) Tj
+T*
+(    record\137sale\050items\054 3\054 sales\054 \046sale\137count\054 1001\054 99\051\073 \057\052 exceeds stock \052\057) Tj
+T*
+T*
+(    expiry\137warning\050items\054 3\054 today\051\073) Tj
+T*
+(    sort\137sales\137by\137revenue\050sales\054 sale\137count\051\073) Tj
+T*
+(    print\137summary\050items\054 3\054 sales\054 sale\137count\051\073) Tj
+T*
+(    return 0\073) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 466.6471 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 3.4 Tm
+/F1 8.7 Tf
+12.1 TL
+(GCC compile\072 gcc \055std\075c11 \055Wall \055Wextra task06\056c \055o task06) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 448.5471 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 3.4 Tm
+/F1 8.7 Tf
+12.1 TL
+(Run\072 \056\057task06) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 427.5471 cm
+q
+0.031373 0.494118 0.545098 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 10.5 Tf
+13 TL
+(Expected output for the built\055in demonstration) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 340.3671 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 0 77.28 Tm
+/F3 6.9 Tf
+8.418 TL
+(Sale accepted\072 2 x Biscuits \075 40\05600) Tj
+T*
+(Sale accepted\072 3 x Tea \075 45\05600) Tj
+T*
+(Sale accepted\072 2 x Tea \053 Biscuits Combo \075 60\05600) Tj
+T*
+(Rejected\072 insufficient stock for Biscuits \050requested 99\054 available 6\051) Tj
+T*
+(Expiry warning \050within 2 days\051\072) Tj
+T*
+(Biscuits expires 20\05711\0572026 \0501 day\050s\051 remaining\051) Tj
+T*
+(Revenue summary \050descending\051\072) Tj
+T*
+(Tea \053 Biscuits Combo\072 60\05600) Tj
+T*
+(Tea\072 45\05600) Tj
+T*
+(Biscuits\072 40\05600) Tj
+T*
+ET
+Q
+q
+1 0 0 1 45.1378 256.3671 cm
+q
+0.917647 0.952941 0.960784 rg
+n
+0 77 505 -77 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 8 60 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 2.8 Tm
+/F2 8.2 Tf
+11 TL
+(Screenshot placeholders) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 8 6 cm
+q
+BT
+1 0 0 1 0 42.4 Tm
+10 TL
+/F1 7.6 Tf
+0.356863 0.419608 0.470588 rg
+(\133INSERT SCREENSHOT\072 Task06 Compilation\135) Tj
+T*
+(\133INSERT SCREENSHOT\072 Task06 Normal Sale\135) Tj
+T*
+(\133INSERT SCREENSHOT\072 Task06 Excess\055Stock Rejection\135) Tj
+T*
+(\133INSERT SCREENSHOT\072 Task06 Expiry Warning\135) Tj
+T*
+(\133INSERT SCREENSHOT\072 Task06 Sorted Revenue Summary\135) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.031373 0.494118 0.545098 RG
+0.6 w
+n
+0 77 m
+505 77 l
+S
+n
+0 0 m
+505 0 l
+S
+n
+0 0 m
+0 77 l
+S
+n
+505 0 m
+505 77 l
+S
+Q
+Q
+Q
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+518.2756 19 58 15 re
+f*
+0.356863 0.419608 0.470588 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 523.8463 26.92913 Tm
+(Page 19) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+77 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+78 0 obj
+<<
+/Contents 79 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 62 0 R
+/F1-0 80 0 R
+/F2 64 0 R
+/F3 65 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+79 0 obj
+<<
+/Length 4256
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.086275 0.196078 0.309804 rg
+n
+0 816.378 595.2756 25.51181 re
+f*
+1 1 1 rg
+BT
+/F2 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 45.35433 824.5984 Tm
+(CSA02  \174  C PROGRAMMING  \174  ASSIGNMENT 4) Tj
+T*
+ET
+0.839216 0.870588 0.898039 RG
+0.5 w
+n
+45.35433 39.68504 m
+549.9213 39.68504 l
+S
+0.356863 0.419608 0.470588 rg
+BT
+/F1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 45.35433 26.92913 Tm
+(R\056 Surya  \174  1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 527.7383 26.92913 Tm
+(Page 6) Tj
+T*
+ET
+Q
+q
+1 0 0 1 51.35433 776.3701 cm
+q
+0.086275 0.196078 0.309804 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 14 Tf
+17 TL
+(Alternative concept \055 Linked list versus array) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 51.35433 621.3701 cm
+q
+0.086275 0.196078 0.309804 rg
+n
+0 150 505 -20 re
+f*
+1 1 1 rg
+n
+0 130 505 -30 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 100 505 -30 re
+f*
+1 1 1 rg
+n
+0 70 505 -30 re
+f*
+0.956863 0.968627 0.980392 rg
+n
+0 40 505 -40 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 135 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Operation) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 101 135 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Array of structures) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 306 135 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2.2 Tm
+/F2 7.8 Tf
+10 TL
+(Singly linked list) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 115 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Add at end \057 head) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 101 105 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(O\0501\051 at an available end slot\073 insertion in the middle) Tj
+T*
+(requires shifting O\050n\051 items\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 306 105 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(O\0501\051 insertion at the head when the new node is) Tj
+T*
+(allocated\073 append is O\0501\051 with a tail pointer\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 85 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Remove by item ID) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 101 85 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(O\050n\051 to find and O\050n\051 to shift later elements\073 total O\050n\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 306 75 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(O\050n\051 to find the node\073 unlinking is O\0501\051 after the previous) Tj
+T*
+(node is known\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 55 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Search by ID) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 101 45 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(O\050n\051 for an unsorted array\073 O\050log n\051 only if sorted and) Tj
+T*
+(using binary search\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 306 55 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(O\050n\051 because nodes are followed one by one\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 25 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Extra space) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 101 15 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(No per\055item next pointer\073 contiguous storage is) Tj
+T*
+(cache\055friendly\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 306 5 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 22.3 Tm
+/F1 7.7 Tf
+10 TL
+(Each node stores a next pointer \050typically 8 bytes on a) Tj
+T*
+(64\055bit system\051 plus allocator bookkeeping and possible) Tj
+T*
+(fragmentation\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.870588 0.898039 RG
+0.45 w
+n
+0 150 m
+505 150 l
+S
+n
+0 0 m
+505 0 l
+S
+n
+0 0 m
+0 150 l
+S
+n
+505 0 m
+505 150 l
+S
+n
+0 130 m
+505 130 l
+S
+n
+0 100 m
+505 100 l
+S
+n
+0 70 m
+505 70 l
+S
+n
+0 40 m
+505 40 l
+S
+n
+95 0 m
+95 150 l
+S
+n
+300 0 m
+300 150 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 579.0701 cm
+q
+0.113725 0.160784 0.207843 rg
+BT
+1 0 0 1 0 27.6 Tm
+/F1 8.7 Tf
+12.1 TL
+(For the small\054 bounded canteen inventory described here\054 an array is straightforward and has low overhead\056 A linked list is) Tj
+T*
+(useful when frequent insertions and removals are needed without shifting records\054 but searching remains O\050n\051 and each item) Tj
+T*
+(requires a next pointer\056) Tj
+T*
+ET
+Q
+Q
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+518.2756 19 58 15 re
+f*
+0.356863 0.419608 0.470588 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 523.8463 26.92913 Tm
+(Page 20) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+80 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+81 0 obj
+<<
+/AFRelationship /C2PA_Manifest
+/Desc (Content Credentials)
+/F (Content Credentials)
+/EF <<
+/F 82 0 R
+>>
+/Subtype (application\057c2pa)
+/Type /Filespec
+/UF (Content Credentials)
+>>
+endobj
+82 0 obj
+<<
+/Type /EmbeddedFile
+/Subtype /application#2Fc2pa
+/Length 24292
+>>
+stream
+  ^‰jumb   jumdc2pa  Ä  ™ 8õqc2pa   ^æjumb   Gjumdc2ma  Ä  ™ 8õqurn:c2pa:0def5892-13f1-44fe-8a2b-6ce4f670e738   Æjumb   )jumdc2as  Ä  ™ 8õqc2pa.assertions   	πjumb   #jumd@À2ªäHùß*÷ÙCic2pa.icon    bfdb image/svg+xml   	wbidb<svg width="716" height="716" viewBox="0 0 716 716" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M508.749 317.399C516.777 287.314 508.991 253.884 485.389 230.282C461.788 206.681 428.36 198.895 398.273 206.923C376.231 184.928 343.39 174.956 311.148 183.596C278.906 192.234 255.45 217.292 247.36 247.361C217.291 255.451 192.233 278.91 183.595 311.149C174.957 343.391 184.927 376.232 206.924 398.274C198.896 428.359 206.683 461.789 230.284 485.391C253.885 508.992 287.313 516.779 317.401 508.75C339.442 530.745 372.286 540.717 404.525 532.079C436.767 523.441 460.223 498.384 468.313 468.315C498.383 460.224 523.44 436.766 532.078 404.526C540.716 372.285 530.747 339.443 508.749 317.402V317.399ZM470.899 244.776C486.892 260.77 493.488 282.601 490.687 303.412L415.577 260.046C412.411 258.218 408.509 258.218 405.345 260.046L317.401 310.82V277.526C317.401 275.191 318.652 273.005 320.676 271.837L387.644 233.174C414.178 218.353 448.346 222.223 470.901 244.776H470.899ZM357.837 311.144L398.275 334.491V381.185L357.837 404.532L317.398 381.185V334.491L357.837 311.144ZM264.776 269.693C265.207 239.305 285.644 211.649 316.453 203.393C338.3 197.54 360.505 202.744 377.127 215.573L302.014 258.937C298.848 260.764 296.898 264.144 296.898 267.798V369.346L268.065 352.699C266.043 351.531 264.776 349.353 264.776 347.017V269.691V269.693ZM203.391 316.454C209.244 294.608 224.854 277.978 244.276 269.999V356.73C244.276 360.384 246.226 363.763 249.392 365.591L337.337 416.365L308.503 433.013C306.481 434.181 303.961 434.188 301.939 433.02L234.971 394.357C208.868 378.789 195.138 347.261 203.391 316.454ZM244.775 470.9C228.781 454.906 222.186 433.075 224.986 412.264L300.096 455.63C303.263 457.457 307.164 457.457 310.328 455.63L398.273 404.856V438.149C398.273 440.485 397.022 442.671 394.997 443.839L328.029 482.502C301.495 497.322 267.327 493.452 244.772 470.9H244.775ZM450.897 445.982C450.466 476.371 430.029 504.027 399.22 512.283C377.373 518.136 355.168 512.932 338.547 500.102L413.659 456.738C416.826 454.911 418.775 451.532 418.775 447.877V346.329L447.609 362.977C449.631 364.145 450.897 366.323 450.897 368.659V445.985V445.982ZM512.282 399.221C506.429 421.068 490.819 437.697 471.397 445.676V358.946C471.397 355.292 469.448 351.912 466.281 350.085L378.336 299.311L407.17 282.663C409.192 281.495 411.712 281.487 413.734 282.655L480.702 321.318C506.805 336.887 520.536 368.415 512.282 399.221Z" fill="black"/>
+</svg>
+  jumb   )jumdcbor  Ä  ™ 8õqc2pa.actions.v2    Ìcbor¢gactionsÅ§factionlc2pa.createdqdigitalSourceTypexFhttp://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMediamsoftwareAgent¢dnamelgpt-6-t-minigversionlgpt-6-t-minidwhenx2026-11-19T14:28:50.700179ZrallActionsIncludedÙ   ¶jumb   (jumdcbor  Ä  ™ 8õqc2pa.hash.data    vcbor•jexclusionsÅ¢estart –òflength^‰dnamenjumbf manifestcalgfsha256dhashX q =€eÍq4MÉmÖÎ€*A»ø∆˜¢ç˜Sqzábcpad@  âjumb   'jumdc2cl  Ä  ™ 8õqc2pa.claim.v2   Zcbor¶jinstanceIDx,xmp:iid:b380d6b7-9c54-456d-898d-1c8c2d38d267tclaim_generator_info£dnamegChatGPTdicon¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„ÒkspecVersione2.2.0isignaturexMself#jumbf=/c2pa/urn:c2pa:0def5892-13f1-44fe-8a2b-6ce4f670e738/c2pa.signaturercreated_assertionsÉ¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„Ò¢curlx*self#jumbf=c2pa.assertions/c2pa.actions.v2dhashX yæ¯¢˜b+1ì ÅG∫KééâÃ66;oõ‚ËxÚä¢curlx)self#jumbf=c2pa.assertions/c2pa.hash.datadhashX >?€‘.ﬂç7	üi!î:in[LÂÑÚ‚.@É}›Úhdc:titleiimage.pdfcalgfsha256  P8jumb   (jumdc2cs  Ä  ™ 8õqc2pa.signature   Pcbor“ÑYË¢8$!ÇYà0ÇÑ0Çl†•¸ÈpåÚÄ1ÓDds0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0260422155105Z270423155104Z0G10	UUS10U
+OpenAI OpCo, LLC10UOpenAI Media Service0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ù∫jLMóÍÅâ∂—æ^XNr°ôﬂiq|Â!#”Å¢5úL£J<Ôn+øÊdÆ◊ÑKi$ZcœÍv
+ê≤e€|<ç·˛¡3wØ'ﬁ; :¥cáòÕMúø¥3D™T07F∏˝öyDsWU£c|›¨X/ÊzÆﬁ•ò√ìNHZ¯‡|§íK’l∫ ¬*»íæu‘îgµW™jöm00,◊Uaåj“S∂ x^ECûNí£ÄÒØ[—≤Î˛ãÔ∫◊7	ï´d-ô…áö¯ø.–ÁcÄñöy†7ì6£5…H…,òcÈDõ5¨πßSlúhs»
+9ÃIÛ £Çg0Çc0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0o+c0a09+0Ü-http://crt-c2pa.ssl.com/SSL.com-C2PA-I-R1.cer0$+0Ühttp://ocsp-c2pa.ssl.com0U 00
++ÉË^0)U%"0 ++$
++ÉË^0UÛùM‘Àùr¯F
+vG•hOt0Uˇ¿0	+ÉË^
++ÉË^
+03	+ÉË^&$019bc403-5cd7-7669-afe6-fdb17177d4280	*ÜHÜ˜ Ç Ç8óle°7 Ò˘Ìt∫’¶[5ıglœ+fi@Õı¸“rVﬂ ï(Í¯fﬁBC=¯x†h(â≠µÓ¸ı2“å∏_ÁlÄnÎ[|ó[0Á.B∏∆pö˛˛ 	¨5F’†åIEÄ√∫íU«Zùo“Îÿyõñ:ºDê44}ÙA•3ó/.lQR
+m=I∞À«ÜXÃ‹Óû.È∆9∏3\ ⁄Ó W3T.p(J%)Oí|.“˙›g.zËPx9Q∫É:⁄à~ê#êíıbXöÂ¬®sÜû≈ÿqÈÔ\d{ëÓ7/vòxVdÁoB—}íºÖjomdÖÿˇ"ñÌπÔ≤–\Ñ}h]5[K±≈iHyÊhé†ƒaò:L¯¿$yÂ¶h‡Ô˝÷ê÷.-AduV_ìî∂°úä<∂¿ËmÛ≈CÁv,h§ÚÊÀãàïË{*r$Å=!∆cm/%Ä£ô[™)•˝GÍ·˜kÂ˚[P&m+°Ç]1ı›b®|2‹L«•,r0PÄWìÇ‚ËÆ≥ßØY4ÆrÔ*ùÆx¨‚3ÏSµ…ô“(®*7°N´¸Ã~Xõ'mE·¥*úΩ0W°1. .…‚»T€°íOæ$5ò˛/i‹∏M„ﬁ/Ëlı¡ä‚”˛rw”®+‘WóÆáÿ æì∂âYS0ÇO0Ç7†'+c»ÃM-õÑQrlÙú^2QÆﬁ0	*ÜHÜ˜ 0O1&0$USSL.com C2PA RSA Root CA 202510U
+SSL Corporation10	UUS0251222181730Z301221181730Z0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç À:¥Õ∏úÀ)V∏yß¯kˆ˘ÿèr√¶ò≠*A⁄a.GRΩtQæ]ÏzÇ∂¿˚˙Ë'•ãË˛bÛ`Ò_H ssï‰NnÃNz5ﬁX·◊Ç‹“GCwõﬂHàyü£9§YN^‡NGóÚuB◊v=∂§"‹Ì∆o‘rFå÷Q«µ∑zÚì˘#'’ÄPuäp†hÈÁºÑ(|ú*Í)©¿/˛…vFU∞/cÍ}ûÙ∞D§@ﬁ@6\DäTkWHˇªo§’Íé¬◊|ÿºŒiø† MìE;ô.y“œûü)ªFŸxc0ñ3Qú^ìm˙Â4JXx≥)l]|∏uï<ôw!{ÿ¥JÎ⁄Õ«
+÷…¢ﬁÆó≥∂Qñ⁄íõ√≤ªPƒ˛∂§Lï]-íjObÂ‡*˜i†ú’πì ⁄—ª^O∆Ø˘)L–…ÏÎÛ≤qP{v'hë˘Pà∏w5ÿÕ°·◊”)ÁJ∆áTY$¬g≤m	5€∫Œ∏F•‡ã⁄·ßüjŒ`“ƒ˜¡ﬁsyU‡p¥ÔÍÃ«˛vâNf
+ià-Ì√F¢*‰å‘úWF-Xb’ ®˙~¯¬ŸajÀ5]†ì£≤e®/ÌÔòÁ¸~∫HÙ™°q¸ìØÍßNsài’B¿˘ÑíÖOÀT≥=:¯›)ey Cûñ∏áXñ!Ô—ë{ £Ç&0Ç"0Uˇ0ˇ 0Uˇ0)U%"0 ++$
++ÉË^0U9=G‹óèØà{MsÕÂÓ§•*0U 00
++ÉË^0U#0Ä¸*Ju:Ä˙ôcìsWÏæì∞}√{0x+l0j0$+0Ühttp://ocsp-c2pa.ssl.com0B+0Ü6http://crt-c2pa.ssl.com/SSL.com-C2PA-Root-2025-RSA.cer0	*ÜHÜ˜ Ç Œ6˙>Ôñ6-éØUfˇ{+ kVıÀ≠Ω*Å≠•¶–M£>ì‰ìi’‰å®nÊ7T‚%úÏef(<3=¢ö¢ªÕgdJÁæt!°n√´&ƒ;,⁄Uπ˝GN‡çxõ7Éƒt;≈GaÔmAr§€]CS…ñNÂ‡:ﬂ®›.—ØXó÷ÁÙ_r#<kœΩ9´åì®èßvY>·íı˜Ÿ˚Fb´nn‘àF†≥/*j_•N⁄¯‘¸ÃŸ£<©wE
+¡˘òπ9ÀÃ°q¿*Çq”‰ˆ%‚Q!m÷ﬂ‰SçoJ}é^¿∫’wy!ÅzŒÌ˜õé∂≤äBVùèkA*˛kúãÓ£(œ_ÛÈ–d÷Ó¬âKÎíœıØ¬'M∏ë°7%ôÊ˝Ä‹Ùº«7{æ¥-gX/Á√≥ãqÂDz0∂•≤u>[#~;”T¶:π«Ã3’j5zÅv/˛W⁄i¯>?ÔTèã{F√cû˙Ìƒ/pÑ+ˆVÇÙßÀ$◊l^${:Ω©X;i≥úè“ptˇãn&ª√´E«SñúGµ∆F´^ı¸àãh£5Â|jïeµ´Îπˇ∫∏‡õJG≤ŒÏ/â}ÓØúMƒ…Œı2=è˜&4˛"ãzÌ˘^^g_Q[€$V˚—Y°∑ﬁöf	∂—Ü.˙}~ïyõDf|6Öˆı£gsigTst2°itstTokensÅ°cvalYã0Çá	*ÜHÜ˜†Çx0Çt10	`ÜHe 0Åá*ÜHÜ˜	†xv0t
++Éø0010	`ÜHe  ?(Ëëò4K¬Oj%Ã∞KNio¯z™ı)2"– $Jb
+K.[Ç20261119142923.899797Z0Ä	 íLˆ∞≠∫`Ÿ†Çf0Çˆ0Ç^†a€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ 0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0260408174626Z370709174626Z0u10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Leaf0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ Í ≈≠î˝˝'ü«xßa ˇ)a*˚°àÕ_®¢óùâ/ãë»º∞ñê=UÇ¡ñé6j≠âiËê€,D2É®
+ÕwÂ5ËÓ®d[˛∏‡éùÁ °(√5›ß7È"˜	Móö¥Ñs¿.|©PG(†¥i∞á)zY˛5B˘ŸiRJ 7ÚhÃÒ-∑Çñ KF\=§Ü∏KEf8¢NM' ï∫uÃNájüt√ $_ƒ~\Æ˛ÛïÌ ëﬂ<ıÜõ*^÷–›…˙»M√…ÑZI,‰8s`R∏LÓ∆Û∑∂ÿ›j©Œ ∫]÷ƒ\5dÚ#S?bée]p+‘…k	ÅERËWÌZF]⁄]vú%yhÉQ§òÑuëròUˇÿ„Cb±Ìig'Aº≈èÚj+ÉIË·-4ª9ØgΩ¥ï»≤ΩEgÕràî_UK,≠ØÌ•Ù$Øw>ÉädQèëå9ñK∞=Æ˙ô°>å=æ6°.ıcµ £x0v0Uˇ0 0Uˇ¿0U%ˇ0
++0U§'TÇ¢äÄ{=≈ÜÕ?pŸ¬ÉôQx0U#0ÄÚ∞«T=#CÖ‹ s–rÄ=∏®0	*ÜHÜ˜ ÇÅ  ˚$OA¿¿ºò≤2 ç ôH5OƒFV~ß>?∂•#˘*H>‡QùE@x¡ªÉNìP…õ'ñhﬂMŒÚˆ“y´ÔÍ¡⁄?ıòYÊpÕâÙÓGã™ÀÏˇå~·FÿëÊú∏‰4Fˇa“x¯}89„RÌ_fËs¿ r;‰®´éÜ*£7!˘;ﬂ{\TÿL«j*KœCt`Äs£…—wØá©˝µ±Ñjnøà*Œö°ö´¢ûÇH7≈cQó€R|og…iB’œı˚≠^ãê‚‡y<.Éjû•Ë%AèÖÌ‰¡†:ç˛ùRPÔáﬁ·dÕU˘! ﬂ∂)Ôü'n—∫4F´J"OÁbw›E#›a-¬1)èƒπ~y´¥W‘¡Ïœ·\{eI∞ÎM´§«'@N¶¥µèœ|√¥Cßv”^0cÓ®Æ5(td´Z5„[/:>N
+a÷0MCõˇN.∆!π>:, W0ujédK¢–	—◊†g&Amg¯pv∏%&V˘ë&'√KI0Ç~0Çf†ç ∆≈≈⁄∞ºÒNï•Íº0	*ÜHÜ˜ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174626Z21260409174626Z0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ âº‘π‚»°æaªﬁ<df~ßæúm”©0&<Ù‡k 9ﬂï4Ì©¢eH€7Ü2ÉéÃ
+J†¿Û4l†¿òÕ+ü•ÙÀ|Ÿ&ﬁ~…M¢Ôc[ëÊˆY®“˙N˘Ÿ8+ZÕ`ZòÅò®◊S∆„÷.H¨CW	ÈîÚG˘lEä`∑˜Æ/^¢5NÖ8Öiü4ù–MÿC=Õ4m¸cì¸”pªJËvËjNfI†Ì¸¯æÔö∑®w¨Ô∑8Ãπ‘*3ƒv÷@wÀ˛«]-@”ﬁã<¿÷@AôÀî?,} kR¸û P∑	GE·#U˙±OoTòïÙ}∫¯h·"z‹äëCã∂.C±b†æ $é.Ôø§—MË∏?1œ&=≈ PÍÚŸ$ dÌ’sû.px™ﬁV<˘‘Ä¢Ë≠Øˆ˚®£\Àh´D€0wÚƒ4tkUm∆á˚Ú2<ûqE˜ÏP˚˛÷1&ª–ƒMa‚B€Ø√+n_+Ê‚∞Ôç\DÕ¿s}è¢ÈΩmÇº%eÑ0iÌ £{0y0Uˇ0ˇ 0Uˇ0U%0
++0UÚ∞«T=#CÖ‹ s–rÄ=∏®0U#0ÄX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0	*ÜHÜ˜ Ç íÏ7\ﬁlÎd⁄Æ°	0rÆ‹rı;ºz=÷∆·/ˆÉ3}ËW@NLô™k‘ôŸã€k÷L¯ –Y3”°†8\#àD$˚á·ˆì'º°ÌL_g]ˇ5´1“Ï{‘@C7O¬Ñú∫d»∞¢~ö6¯·–Ç≥PC≤‡UΩÄî»YRNJtﬁ]«EXõ∑˙0™;‹Gº’.,π8c,yZ∑›U≠=BﬂàœÒh˛s ‘Z∑ﬁ$óë¿Ág˛‹¶
+Û•F≥QœçØ_„»∏@∆Ω„˘÷Kq–d]Âd¬K¿^w—=«[ûœ{˝îîÁKQ⁄˚dÙ´5îÒˆæ~+›≤ö=P›P√ñdém´sü(;w–óÌoEO±3._FÎÉ∂©aº◊ÇÆ¯Äo¬„i0Êm|:Dí+ò-Ø‹4¡æ•*HÁá»ﬁ8µ3 „ÑPpÒ≤KﬁçOˆë‹_Ö˙ÒÊ—◊ ßÓ¥üˆ!x)Å„pXwÜ§:KóÉFË⁄¬jv…©À!Eæe±†Ü.ÄºYKMõCm¥◊Ñ‡¸’»aêCéjù√Ò!<Ñ]˛;÷ÿ#9E_q˙2˝†ÄïDµO Â√t˝‚NárÜÙQáΩ‘µ+5lí§;kjù∫˝¿;úv¬’9I⁄„î>Pj◊L‚âaùÔÎœ≈√@npz80ÇÊ0ÇŒ†P;lâå$3,è˜Oé˚}ÇÏ0	*ÜHÜ˜ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174625Z21260409174625Z0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ˆíÈ“∫≠û·¨u®Vÿ™±≥jí_ñyıí∑-$¯ø¿Ø`æ¡öÕyö‹lö˛6ö¡ò§?‰,ù∫••Ps≥
+¬˘ÛƒI/xΩ“ÏºÁ?Ùõ—Ú†a¢,â% Q˘%ú“∆/ÙâƒA˛&”m5ÕÏª5`@®ÖQæˆÓêòÒ*ÿùzkjŸ.ŸcÛÂ\)≈Ü"¡ähÕÎ8û©Pñ[#C˚8ˇB|;:°Q/%…H‹1ˇPrÓ|°wÕoÅaÛ?ønË“±¶6‰k2˚˛w®^õ\››1êLéeˇÅÀAŒ(1S CŒHn}÷d≥)‰¥.:∑TZrVWÛ®j}ÔÊa›e»H	Iô2t
+¢Ã›ì S¨#ΩÇÖ ±ÔæÌ°w Ó:F3¢ûÏØÈ1f¥fo≤âì†~ï!ŒA¯^éÈÕπ¿’3]x––'1œP0rs⁄j¬¿ìœ≠‹dáˆ˚Nàvı>Ôˇí,ôw.ˆ‹ò∂ù	:˝Ù	«è_ZÈ~H	+µäÉÚ[<,Øë¢ùA∑Rh—ø∞¿⁄O`ΩÓ)™Ìáçq\(åçà£%cEÿ¸{aèlFT;\…∞ÇØÉ»±#?ü[Ó¢◊Tµ*SÆªÖ€¶˙óûÏÑârÛz@…∂ÖXG[Ò$a9¢Lﬁÿ∆®"Úûø[L,À £f0d0Uˇ0ˇ0Uˇ0UX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0U#0ÄX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0	*ÜHÜ˜ Ç X¯ÅëòÚla˛»Ü÷[Ñ¶÷æ∏¶]]IÀ∏°)Õ-ù∏X˘Ñâ=<¯o’j¥*¢UígÅô^µT˚öFÄ„Q S¿¡àWﬁÔÇU~„Ù}Î&¸Éˇ!®¡¨ﬁ€ì´Õ–0v:ìùŒ™g9.Ätﬂm~v/ÈÍPAã8=lÂ‡>Ó/€dT6^æbE∂—!¥Ä<åÎ⁄ú÷J©’Te[k—X~¿IáÎÎK_í;î◊öÜˆ°YŒG8¨√∞td—¿R;°±{(k·ió¯(;'ˇÆ§û˜eÀ†ÙÍπΩîŒD‚ò±
+HhÓU©!•`è˛ ÷}—{Ü úÛ®x–∆⁄@.»Å\b®*¡˚VÁyéØÏÂ€”p˛FÃc®dÒ<ÈØ•dº^øÖ-∞Œ„π”§◊RªpãÜù˚.ø
+ˆ“U+#B+C\Ï°Ça?œqÌ∞˜óÈ‰À¬<¸¨w∑∂‹ ¡LÈâ≤≤/√~ídúµÑﬁÃñ˝â∞KµC}“È≠Ü˝Ÿ-üΩ Ó¿¥GV#|HëNgâ {b¡…^UÒˆ∆Q#WoÔáæ Fyæî±» (ùïäà&UfRÔŸK∫®ZÈ¬,≠ü√\BÛ°ı'dyqå
+Zû˝π˘Eyp·jµ7ñéX˝EøT%åÉ=Ÿ&3#–Xw¶∏1Çh0Çd0Åì0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	`ÜHe †Ç%0	*ÜHÜ˜	1*ÜHÜ˜	0/	*ÜHÜ˜	1" ˜GÓx@@ÃfS—=$€LB"ßäùÒØÌËÔÛªë0Å’*ÜHÜ˜	/1Å≈0Å¬0Åø0Åº ΩOπ≤êLÅ6gànÔA·m˛Ÿ"ùø[íJ–¢ƒ`F"z0Åó0§}0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ ÇÄ£ì¬çV`iHZﬂ·ú∏q£^OÑÈ5zFΩk√Z@≠iw’”my'i≠≤ùñGI◊ÆˆÚò<∂O¢'}!tGç÷Õ
+|ƒ¿¨B=£¯∑¥…çÃø˘™·º∂m
+ºcNjt?¡ U∏<¯ƒr∞
+∆p}hCJë0tÚE¨IÄ◊Üó>ÅbRáçÔ Ìé	,˘U«J‰•êBﬁGÖ âÊfî∫≈$z.%W8é'óêà	Úèr’πªôoÑ6¶óˆáíê˛Ö}ÿ5‡Û V˘ÇπïÁ÷êgòúG6±EòS*j‡ºy’Ω ﬁdÿ$üÀ>ã VM∑îºáà†ÿèg8@AÃ ë“…™EawLs‡ÚGò©˚D[›kÂJøËè˘TkÈ¬WÃê÷⁄Œ)Wˇ≥¬ﬁ˘Ó%ê∂Äëaæ~|\¶T/òEvÜ¡°8ª∆ã;F∆)÷Ó6#œ<)…É¢è@R&»Ó8ÊßB√ÜŒèA∏
+÷Ø∑BÌu®Å¶êÇ˛€WH®ü†ÿ#i>erVals°hocspValsÅY◊0Ç”
+ †ÇÃ0Ç»	+0Çπ0Çµ0ÅÈ¢Àcól‚ù≠‡-e&¶:tiô20261119132046Z0Åò0Åï0I0	+ ﬂÇ7S^Sÿ3±‡=$5ÒuÊ·
+9=G‹óèØà{MsÕÂÓ§•*•¸ÈpåÚÄ1ÓDdsÄ 20261119132046Z†20261126132045Z°"0 0	+020161121132046Z°#0!0	+0rû˘∏–“ZÀƒ© ¡°áJ0	*ÜHÜ˜ ÇÅ $@!ë¡5uœDƒ»¥Û\ıªeË£	b[} Ê)÷ÆÆœq¯V}Å`ﬂñˆÉß‘^ﬁ1ë≤ã0ˆ}‰¬~ëj&öÊ´ï¥ùÀ^ƒM¯»6Çæ≠p\HﬁÍ¯y!˘3ë"ÔÜõM±ä(LõåY 1“/í∏›®ºQ1Eô9Ëg≈ÑTqêœP…√Ÿs*·ÓÙDE¸ˆxÇ⁄NE]9fv#k˘+∆ΩuﬁVœäCq4n…pd¨?U¢Ñﬁ‰ÈÀÿx/l3)s7ñ£\—ïæ´√†îKx0q∞¯EV=v]·_Qõrÿ_åf'#≠¸πP”Å=8wıÀÏ›«µ^txﬂÜ“]¨læ≈ª€ìE2Îëîjë¶®“∞‘™µ™YT¿w<Á'!=
+Å±Ÿ⁄u`§6¥£ùdY‡-»Q“2ﬂiênêe&+“gå“é˙Â◊=9â/É<Cí˛ØerÃ+ow˛‡kç◊/£j–⁄§≥‰_vf¯RPa†Ç10Ç-0Ç)0Ç†97«k˜”!òS§¢°îR/0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0261104111802Z271104111801Z0M10	UUS10U
+SSl Corp1+0)U"SSL.com C2PA ICA R1 OCSP Responder0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ ≤›W §¢∫øºÇ	≤Ï~ö|j>˝&ùˆ#zdÍµ9´3±ÀùüüLK≥/„æÁ}VŒµXl°/È@d¸·∞ıuî€ßæjH*àV#ïMJ˙ö,M/µp˜é&ÆR⁄8Ê<∫<o9î‡£ShoñyC]ÑÙ†9·Jìp¨ÖÜΩµ?°Æìi_⁄"]iÈ7• 5æk©´g¯  5JD?y¨JtyøüSj±øÏ∏*—G¨ø±ªÅhïHf"c9‹Ï⁄ÀrŸ√◊IÛËÌG.VòÅ~œÔÀÛóN¶zÊQÛm‡bÆ‘éê·Eúˆ∆GËÈâ„W„Ä2JTååy4jµ≠î.ã»¿¬§Üáá¿•_ÇÖ9hˇıÙòÀY†¬¨:ùïà"fn,_ÀAqÒY4≤88…˜Åˇ,GQ( •ö H±¥J=Cà ¡?ˆU"ƒÚ£Y˜≤÷ ˘dK˝ƒ®N4°^◊aÂ‡m¶πiõE°ß‘èH≥≈æ¡õ £Åá0ÅÑ0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0	+0 0U%0
++	0UÀcól‚ù≠‡-e&¶:tiô0UˇÄ0	*ÜHÜ˜ Ç 
+r—⁄Z>t["_© /˚Ü2º&Í≈x“F}p91‹ádcwÏÜûÇ%z—æ√«∏ÆL“FåJÍ”•øØÅ@–Ò˝$~tñÜòâ; ﬁc˚'ÙsqH“PõÃhæÓÁmW'°Ÿñ˘ƒ@ÜÉ›ª~ÇÃ8–¥ñ»±rÇ@`åöÙq“Vòä
+å°+L8 Ö™ΩïöæﬁáÛ{ºa<f.√**(<uI\√ãV¨%∂3«!'y(’?ypπNŸÑ.ûÌu∞ƒ	‘Ó˙|Êgkñ€M†F	H√	Ô4—8%v»z@É∫a¸|Éº‚,„‚Yû∞VÖ6˝˘Î¢!ká-â3("Ö3zñWq\Aπo¬dFÈ[Ü“>ç~Ù˝}ÃîA÷™50ÃM"zÓÖÚÆ#ÿ€`ÉÏπÙ†KîÏ	Ú=S“ømjåˇø»÷∏Íê<UmiÓ¨kPIÿe¬⁄/ÚaË9í‡;O“ÒﬂΩ“
+∏ã«ïtçPogZÒ∑f}∆ÿ=®/]êvä∞Ü<â¢6%ß5,®$ø–Q~·≈M”$R>•≠ﬂ¢¯gÓÓ˝˙ôíÛ:˛i(ÙeI÷`_˚ ◊‡ËPﬁÅ<	fÄ/à
+'U¥˚¶û*xW˘CÜ'Bx˛â◊≈Ï=.Ç¸eôkZYBÉÒ#Ü”≠≠%&hp¡‘ÿ˚'®ªLÏ¶ƒ∏5∑‹ïcpadY&u                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ˆY ï’t…ıd˙‚ÄØäÕ%Ñ7iØ z&Ÿˇ
+•:‰±rõ%^ê]KEõ∂û≥Q>„(G.◊ zú{Ò gæT˝T˜çlŸ‘≥ëMe%Ì(¥÷x◊«ñ2˘›**Iê;Î8√òKÛÉôE5Q.û^©q!ˇ¸[ø+ekgÂS#à∫*nŒ[(´·X9ÓRÅÈqsì*LÄàı∂UzWÖ<∂^Œ¬˛Ï|Ö®ŒgeT<˘a%^‡◊Û◊ÿîYc∫π«1ôu57gdŒ‰`w¥»+∆<R,€“i ¬ŒYwŸD…e∑∞OáÈ¿èÁb{ÆmùÄ¨í¬H(úZµ<
+endstream
+endobj
+83 0 obj
+<<
+/Producer (pypdf)
+/Title (CSA02 Assignment 4 \055 All Tasks)
+/Author (Logeshwaran E M)
+>>
+endobj
+xref
+0 84
+0000000000 65535 f 
+0000000015 00000 n 
+0000000153 00000 n 
+0000000345 00000 n 
+0000000598 00000 n 
+0000009053 00000 n 
+0000009160 00000 n 
+0000009267 00000 n 
+0000009379 00000 n 
+0000009484 00000 n 
+0000009739 00000 n 
+0000014943 00000 n 
+0000015051 00000 n 
+0000015307 00000 n 
+0000020887 00000 n 
+0000020995 00000 n 
+0000021254 00000 n 
+0000028178 00000 n 
+0000028286 00000 n 
+0000028394 00000 n 
+0000028507 00000 n 
+0000028613 00000 n 
+0000028872 00000 n 
+0000034141 00000 n 
+0000034249 00000 n 
+0000034508 00000 n 
+0000037694 00000 n 
+0000037802 00000 n 
+0000038061 00000 n 
+0000045818 00000 n 
+0000045926 00000 n 
+0000046034 00000 n 
+0000046147 00000 n 
+0000046253 00000 n 
+0000046512 00000 n 
+0000052016 00000 n 
+0000052124 00000 n 
+0000052383 00000 n 
+0000056343 00000 n 
+0000056451 00000 n 
+0000056710 00000 n 
+0000063039 00000 n 
+0000063147 00000 n 
+0000063255 00000 n 
+0000063368 00000 n 
+0000063474 00000 n 
+0000063733 00000 n 
+0000070277 00000 n 
+0000070385 00000 n 
+0000070644 00000 n 
+0000075573 00000 n 
+0000075681 00000 n 
+0000075789 00000 n 
+0000075902 00000 n 
+0000076008 00000 n 
+0000076267 00000 n 
+0000081782 00000 n 
+0000081890 00000 n 
+0000082149 00000 n 
+0000091475 00000 n 
+0000091583 00000 n 
+0000091842 00000 n 
+0000099995 00000 n 
+0000100103 00000 n 
+0000100211 00000 n 
+0000100324 00000 n 
+0000100430 00000 n 
+0000100689 00000 n 
+0000104258 00000 n 
+0000104366 00000 n 
+0000104625 00000 n 
+0000110134 00000 n 
+0000110242 00000 n 
+0000110501 00000 n 
+0000117210 00000 n 
+0000117318 00000 n 
+0000117577 00000 n 
+0000122797 00000 n 
+0000122905 00000 n 
+0000123164 00000 n 
+0000127473 00000 n 
+0000127581 00000 n 
+0000127780 00000 n 
+0000152175 00000 n 
+trailer
+<<
+/Size 84
+/Root 1 0 R
+/Info 83 0 R
+>>
+startxref
+152284
+%%EOF
